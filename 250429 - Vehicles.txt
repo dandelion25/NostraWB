@@ -1,0 +1,11 @@
+From top to bottom:
+(1027) BC Medium - a 3-man battle tank developed from an upscaled BC Light, fitted with a radio and a fast-firing gun favored for its efficacy against pillboxes. Designed for export.
+(1019) BC Light - a domestic light tank derived from a free-piston engine hydraulic tractor, with the aim of achieving sufficient power-weight ratio for use in mountain warfare. While early versions suffered frequent breakdowns, the BC Light went on to become the ancestral prototype of Siayeo tank development.
+(1026) A22 - a lightly armored amphibious assault carrier based off of a Shisha-designed swamp tractor, capable of floating and propelling itself in water with its tracks.
+(1028) T25 - a 4-man tank intended to supplement the BC Light in Anggayan service. Its armor is thin, but it boasts a powerful gun and robust automotive characteristics.
+(1024) SaBK/Elephant - a heavy breakthrough landship collaboratively developed by Shisha and Urwe. Featuring spaced armor and a high-velocity cannon, it was developed to crush Nyanese jungle fortifications.
+(1025) SaWH/Camel - a 102mm SPG based on a strengthened jungle truck chassis incorporating shock-absorbent feet. Originally conceived for mountain troops, it has since become a standard QTB specification.
+(1030) CM23 - a 4-man 'assault tank' conceived by Lhoayan designers, enabled by Miayan investors, and produced in Urwe. Its thick frontal armor and massive cannon somewhat offset its crude ergonomics and tendency to overheat.
+(1027) 26C-T - an armored car based on a shortened mid-engine hauler, designed based on Yeoxli specifications for a mountain reconnaissance vehicle.
+(1027) LG8 - a tracked carrier capable of towing equipment. A development of the LG1, basis of the BC Light, this small Eiyan vehicle is the lifeblood of QTB battlefield logistics.
+(1028) LC.G8 - a 2-man tank derived from the LG8 fitted with a 30mm cannon. Overburdened and disliked by its crews, it still saw great success as a rudimentary assault gun.

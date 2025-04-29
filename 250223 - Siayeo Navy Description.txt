@@ -1,0 +1,35 @@
+[accompany image of Siayeo navies]
+
+// -- // -- Navies of the Siayeo Nexus : Ship Examples
+.   .   .   read: left to right
+
+.   .   .   A :: Yunamer Passage Fleet
+.   Battleship - 3 mounts fore, 13 small mounts, 8 floatplanes (opt: rockets), reconnaissance dirigible, 8 rocket torpedo tubes.
+.   Frigate Monitor - 1 mount
+.   Cruiser - 1 mount fore, 1 mount aft, 8 small mounts, 4 rocket torpedo tubes.
+.   Torpedo Corvette - 8 rocket torpedo tubes (rotating).
+.   Carrier - 48 aircraft, 1 medium mount, 4 rocket torpedo tubes.
+.   Bomb Frigate - 1 Volcanic mount, 4 small mounts, 8 rocket torpedo tubes.
+.   Corvette - 1 small mount (opt: rocket torpedo tubes), naval mine deployer.
+
+.   .   .   B :: Ineng Strait Fleet
+.   Battleship - 2 mounts fore, 1 mount aft, 2 floatplanes, 4 small mounts.
+.   Coastal Submarine - 4 torpedo tubes.
+.   Heavy Frigate - 2 mounts fore, 2 mounts aft, 6 small mounts.
+.   Coastal Corvette - 1 small mount
+.   Cruiser - 1 mount fore, 1 mount aft, 8 small mounts.
+.   Destroyer - 1 mount fore, 1 mount aft, 1 small mount.
+.   Cruiser Submarine - 1 mount fore, 12 torpedo tubes
+
+.   .   .   C :: Souyan East Fleet
+.   Battleship - 4 mounts fore, 1 mount aft; torpedo tubes on bow.
+.   Armed Merchant - 2 sponson guns, 2 AA mounts.
+.   Carrier Conversion - 28 aircraft, 4 AA mounts.
+.   Coastal Escort Frigate - 1 small mount.
+.   Torpedo Corvette - 1 small mount, 4 torpedo tubes (rotating).
+.   Cruiser Conversion - 1 mount fore, 1 mount aft; 3 small mounts.
+.   Destroyer - 1 mount fore, 1 mount aft; 2 small mounts.
+
+note: < 40(ish)mm not shown/listed
+note: rocket torpedoes - heavy rockets that pitch up when entering water, usable in anti-ship and anti-submarine duties
+note: d e c i s i o n s were made in the depths of the design schools 
