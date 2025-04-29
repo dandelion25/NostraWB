@@ -1,0 +1,41 @@
+Powerful tides and unpredictable currents are an ever-present danger for seafarers of the Siayeo Nexus, the most experienced of which are called upon to navigate the treacherous reefs and shallows of the Yunamer Passage. This has led to a prevalence of flat-bottomed, impact-resistant hulls, well-suited to unpredictable waters - and conveniently, needing little to no modification to traverse the intricate riverine systems of the Qayan and Yeoxli wetlands. Further Eastwards, contributing to the galley-like profile of Lhoayan and certain Miayan designs, conditions are far less violent; 
+
+Between rough waters, reefs, and thick algal tangles, screw drives find themselves in need of frequent repair - a difficult and costly endeavour, particularly for larger vessels with limited drydock access. Due to this, vessels of the Yunamer Passage have continued to maintain a heavy reliance on complex systems of sails, kites, and even paddlewheels through to the 11th century. While the Siayeo Adepts traditionally excel in the construction of pumps and hydraulics, the high fuel consumption of jet drives - perfected in the late 980s - continues to stymie full transition to steam and diesel power, with merchantmen and even well-stocked navies resorting to wind power for longer voyages.
+
+
+...
+
+WARSHIPS - Siayeo Naval Technology of Today
+
+[Skipping Torpedoes]
+Self-propelled torpedoes, while independently observed to be a vital component of naval warfare by the late 990s, were not adopted enthusiastically by the navies of the Siayeo Nexus. While powerful, their weak propulsion and unreliable navigation forced torpedo boats to approach to even closer distances than was considered typical in open waters, something which had become particularly hazardous with the proliferation of ship-mounted machine guns and gatling cannon. Moreover, SIayeo vessels were often manoeuvrable enough to effectively avoid them with skilled captainship, fostering a culture of dismissiveness towards the new device. Because of this, torpedoes were not officially adopted by the Ten Banners Coalition until 1004, where development began under the Urwe Naval Commission in parallel with rocket-launch systems capable of overcoming the danger of the approach.
+
+Experimentation with shallow trajectories of the rocket torpedoes recalled the concept of ricochet fire, used in the previous century with round shot. While the fragile torpedo mechanisms were often destroyed during the bounce, the Urwe Naval Commission was sufficiently interested to pursue the concept - if correctly made, a heavy bomb could be launched with a conventional trajectory before flattening out upon contact with the surface, then detonating by contact or magnetic means. Though still a highly inaccurate weapon, the simplified design was ultimately declared a success, thanks to its devastating effect and reduced cost; little more than a particularly hydrodynamic depth charge, the skipping torpedo has since become a characteristic armament of the Siayeo navies.
+
+
+
+EXTRA
+--
+Traditional Design Schools:
+.. North Qayan - Ineng, Kifia, Miayan
+.. Central Qayan - Anggayan, Yiwayan
+.. Yunamer - Urwe, Eiyanixie, Shisha
+.. Eastern - Lhoayan
+resources:
+- Tropical Qayan hardwoods + rattan
+- Qayan alluvial tin/gold
+- Yeoxli thorngardens
+- Xaqa Yeoxli iron
+- Eiyan Yeoxli copper
+- woooo saltpeter
+- Ineng high-grade coal (ancient wetland -> desert)
+--
+NOTES
+- for real-world sea comparison, look up 'timor sea' btw. australia & indonesia
+  (ref - https://www.meteoblue.com/en/weather/historyclimate/climatemodelled/gulf-of-carpentaria-marine-park_australia_11856428)
+- the Ineng desert contains high-quality coal, a probable coal swamp (continental rotation/migration) exposed to high temperatures (marine trench btw. Qayan and Ineng) and pressures (western Ineng mountains). This made the northlands a valuable steelmaking location, crucial in the founding of powerful naval artillery.
+- powerful tides and unpredictable currents in the Ineng Strait and Yunamer Passage pose a significant danger to weaker vessels, especially in the treacherous shallows and coral reefs of the Yunamer Passage. This has led to a prevalence of flat-bottomed and multi-hulled designs, more survivable and suited to unpredictable waters - and crucially, well-adapted to the intricate riverine systems of the Qayan and Yeoxli wetlands. A powerful monsoon wind originates along the southern mountains, providing steady winds across the entire region.
+legendary designs:
+- yeoxli golden age 'gilded vessels', bronze-plated flamethrower galleons
+- qayan fortress-ships
+

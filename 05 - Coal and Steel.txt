@@ -1,0 +1,22 @@
+COAL/RESOURCE NOTES
+In wood-poor Miayan, the northeastern desert has always been an important source of high-grade coals for heating and metallurgical use. While this did not provide it a direct advantage compared to the charcoal-abundant economies of wetland-dominated Qayan, it contributed to the rapid adoption and implementation of foreign metallurgic and mineralogical ideas that gave an edge and amplified mineralogical exploitation, boosted by the possession of what has rapidly become an internationally valued trade good.
+
+Qayan, with few accessible coal reserves and trade historically limited by its harsh climate and intraregional wars, maintains heavy reliance on its abundant biofuel resources to the present day. Owing tothe mountainous terrain, the high cost of transport historically resulted in the placement of furnaces almost directly adjacent to ports and mines, both of which were endangered by rising fuel costs caused by deforestation; while expertise was highly valued and easily shared between operations, the low density of sustainable smelting has affected the character of Qayan iron metallurgy. Integration of the Siayeo Nexus virtually eliminated the running costs of transporting and producing charcoal in the humid climate of the Qayan states, leading directly to the rise of large, centralised smelting operations with close government ties - with fuel production essentially proportional to land allocation, scaling metallurgic operations had become a matter of influence and capital investment.
+(note -- charcoal abundance also led to greater abundance of smelting operations surrounding small, remote mineral concentrations, ferrous or otherwise)
+
+The Yeoxli states, having long relied on extensive interregional trade networks for their resource needs, are more balanced in their use of fuels; moreover, with their historical reliance on large-scale arcane means for locomotion, there is reduced strain on metallurgical energy resources as compared with other cultures. Nevertheless, the paucity of coal resources in Siayeo-aligned Yeoxli territories has continued to drive a desire for access to the mineral resources of the coastal states to the West, where it is more abundant. Recent and historical instabilities in carbon supplies have affected the economy, straining the long-term productivity and resilience of large smelting operations. This has resulted in an overall decrease in the real and perceived quality of Yeoxli metallurgic products, outside special sites closely supervised and kept afloat by intermittently funded government agencies.
+
+METALLURGY NOTES
+
+Northern steel maintains the following characteristics:
+- Early adopters - Overseas trade connections and technology overlap, together with well-developed resource markets drive rapid experimentation and adoption of new methods.
+- The Bottom Line - Participation in overseas exports means competition with highly developed industrial economies; what is produced tends to be of international quality.
+
+Equatorial steel maintains the following characteristics:
+- High strength - incremental improvement of product, operational consistency, and charcoal use/-. (charcoal -> tough : https://www.fulcrum.org/concern/monographs/cc08hj74x)
+- Limited alloys - large operations are scale-reliant and politicised, small operations still have limited access to imports; worse fits for specialist applications.
+- 
+
+Southern steel maintains the following characteristics:
+- Advanced alloys (stainless, casting, etc.) - foundries are always trying new combinations to reflect the fluctuating conditions of regional markets and institutions.
+- Deficient quality control - inhomogeneous batches, castings losing strength with size, inconsistent batches causing issues down the line.
