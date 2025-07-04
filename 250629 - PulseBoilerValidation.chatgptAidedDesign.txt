@@ -1,0 +1,80 @@
+--
+
+1500 kW Steam Aircraft Powerplant Profile
+
+Overview:
+
+Shaft Power Output: 1500 kW
+
+Thermal Input: ~6000 kW via pulse combustion
+
+Cycle Efficiency: ~25% (Rankine cycle with superheat)
+
+Application: Heavy-lift flying boat, pulse-combustion based monotube steam turbine
+
+
+System Breakdown:
+
+1. Pulse Combustion Firebox (~1000–1300 kg)
+
+Multi-chamber, 6000 kW thermal output
+
+Tuned for superheating monotube boiler coils
+
+
+
+2. Monotube Boiler (~700–900 kg)
+
+High-flow, folded spiral configuration for fast heat exchange
+
+
+
+3. Steam Turbine + Gearbox (~600–800 kg)
+
+Output: 1500 kW shaft power
+
+Based on 1930s naval turbine weight/power benchmarks
+
+
+
+4. Condenser System (~1000–1300 kg)
+
+Wing-integrated fin radiators for 4500 kW rejection
+
+
+5. Pumps, Feedwater & Control (~250 kg)
+
+
+6. Structure & Insulation (~300–500 kg)
+
+
+
+Total Powerplant Mass: ~3850–4780 kg
+Specific Output: ~0.31–0.39 kW/kg
+
+Validation:
+
+Steam turbines in 1930s reached 0.3–0.4 kW/kg (marine/rail)
+
+Rankine cycle with superheat routinely achieved 22–28%
+
+Wing-based aluminum fin condensers structurally viable
+
+Monotube boilers used in naval & vehicle applications
+
+
+Conclusion:
+This configuration is historically plausible with speculative yet 
+grounded advances in pulse combustion and superheat utilization.
+
+
+Addendum(human): firebox weight & performance was interpolated between
+90-95% efficiency pulse combustion boilers and the buzz bomb engine.
+Superheated steam system, most weight savings that may be from anachronistic
+alloy assumptions are in piping, condenser, and feed systems, which can
+be improved using prometheum and made corrosion-resistant by using rare
+metals extravagantly. Anachronistic materials assumptions also affected
+structure & insulation, which I allowed as part of the consequences of
+fancy materials availability and processing. (heat-resistant
+woods, hydrothaumically mineralised cork, etc.)
+
