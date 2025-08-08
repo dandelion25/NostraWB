@@ -1,0 +1,15 @@
+UT-Q pattern 1028
+
+A ripple cannon destroyer pattern codified by the Urwe Naval Design Commission in 1026. Hull construction was split between Baban Xon and Sxinkanga Shapers, with the primary systems contractor being the Aygatan-Zog Electric Company.
+
+With a top speed of 35 knots, cruising speed of 24 knots in average wind, and a long effective range, the Q1028 is highly mobile and capable of outpacing fleet vessels. While capable of independent operation, its intended role is screening against light ships and aircraft at range. Wireless equipment - for telecommunications, radiolocation, and fire control - consists a large portion of its systems, enabling coordinated and accurate fire to be delivered onto targets, either via its primary armament or lemming torpedoes.
+
+Sonar can be fitted; however, this vessel lacks direct means of destroying submarines within sonar detection range. Sonar is primarily for navigation and monitoring.
+
+Armament:
+- 2 x 145mm dual-purpose stream cannons (max horiz. 31 km, ceiling 23 km, eff.(air) 12 km)
+    960 x 50 kg projectiles
+    8 x 1.2 tonne LOX tanks, 1 t/d oxygen condenser
+- 6 x 38mm autocannons (max horiz. 8 km, ceiling 5 km, eff.(air) 1.5 km)
+- 12 x lemming torpedoes (catapult-launched)
+
