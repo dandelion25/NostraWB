@@ -1,0 +1,263 @@
+So if I'm to go back to the big picture and sum up the consumption profile of the NF, i'll guess the following properties:
+| the digester bottleneck - sunshine to moonshine
+  .. the rot tradeoff (preservation investment + digestor mass v.s. availability & decay)
+    :: organic availability triangle -> is it dense? Does it require additional processing? Will it last?
+| keep it moist - much water required for organic substrates
+| reduced strategic resource dependence - organic materials basis
+| the curse of the standing stomachs - large mobilisation burden
+  .. high specificity requirement : organisms are flexible, but without tuning are physically or economically intolerant to large throughput variations
+| supreme vertical capability growth/recovery - rapid genome-to-flesh capability staging
+| the universal media - foomd
+| maximum occupancy economy - flexibility + unsupervised production & replication capacity leaves few unexploited niches
+| many hands for an aided birth - mixed machines require disproportionate amounts of labor/supervision for efficient production
+| the public good - widely compatible genetic sub-packages can be, and are best distributed from central labs for purposes like immune updates, molecular upgrades, and such
+| the greener grass - limited import & continued domestic usage/development of mechanical technologies to offset challenges of above, and enable exploitation of fossil fuels outside the bounds of the digester bottleneck 
+
+-- --
+
+06:03]mjeiouws: i don't think that suffices if the geneshaping tradition stretches back a millennium
+[06:03]Cola 2.0 (Knight’s ComputerWife)
+: A millenium????
+[06:03]mjeiouws: ah, so it doesn't
+[06:03]mjeiouws: when did it start?
+[06:03]Cola 2.0 (Knight’s ComputerWife)
+: When tf did I say bioengineering was that old???
+[06:03]mjeiouws: i definitely assumed, because i don't think i ever saw how old it was
+[06:04]Cola 2.0 (Knight’s ComputerWife)
+: I made a whole damn lore post in my forum about this shit 😭
+[06:04]Cola 2.0 (Knight’s ComputerWife)
+: ⁠nostra-forum⁠Navarin Federation
+[06:04]Cola 2.0 (Knight’s ComputerWife)
+: It's 36 years old
+[06:04]mjeiouws: aaaalright
+[06:04]mjeiouws: yeah my memories have definitely fuzzed a shit ton
+[06:05]Cola 2.0 (Knight’s ComputerWife)
+: 1st generation advanced bioengineering came out in 1003
+[06:05]mjeiouws: so this clarifies that 1900ish-equivalent, the NF devised a machine-based method of manipulating and weaving together genes of organisms at an extremely rapid rate
+[06:08]Cola 2.0 (Knight’s ComputerWife)
+: The reason it advanced so quickly is A, the giga-death superwar going on
+and B, the rule of life growing exponentially more complicated once started
+It's an expsoential system of development
+It's like how it took 3 billion years to get out of the few cell organism phase of evolution but less than one billion years afterwards to evolve humans
+[06:08]mjeiouws: hm
+[06:08]mjeiouws: and that supercomputer, i presume
+[06:08]mjeiouws: supercomputer(s)
+[06:09]Cola 2.0 (Knight’s ComputerWife)
+: Those too
+Gen 3 advanced bioengineering is a marvel of the NF's technological might in their home field
+[06:09]mjeiouws: but the term 'advanced bioengineering' implies that there was primitive bioengineering
+[06:09]mjeiouws: is what i'm curious about
+[06:09]Cola 2.0 (Knight’s ComputerWife)
+: Finally harnessing the power of life's ability to make life in it's full form
+[06:09]mjeiouws: unless the gene-shaping art is in fact that recent and specific
+[06:09]Cola 2.0 (Knight’s ComputerWife)
+: Basically, everything before direct gene manipulation
+[06:10]mjeiouws: that seems like a pretty big range of capabilities, not gonna lie
+[06:10]Cola 2.0 (Knight’s ComputerWife)
+: Things like forced and accelerated evolution are examples of bioengineering before direct gene manipulation was invented
+[06:11]Cola 2.0 (Knight’s ComputerWife)
+: Forcing an orgnaism to mutate under certain circumstances so it may develop desirable traits
+[06:11]mjeiouws: and that was done using prometheum, if I'm guessing correctly?
+[06:13]Cola 2.0 (Knight’s ComputerWife)
+: No, promethium was used to do this on a tiny targeted scale
+Before then, xray machines were used to bombard organisms with radiation that forced them to mutate
+[06:13]Cola 2.0 (Knight’s ComputerWife)
+: Xrays are ionizing radiation after all
+[06:13]mjeiouws: so the organism mutating tradition begins after x-rays were invented
+[06:13]mjeiouws: hm
+[06:14]Cola 2.0 (Knight’s ComputerWife)
+: Before then we simply had to wait half a century for organisms to adapt and change to any new environment we put them in
+think plant and animal domestication plus selective breeding 
+[06:15]mjeiouws: well, that much is normal, but i remember seeing a discussion of the mutative properties of Navarin prometheum, which presumably have existed since a millennium ago
+[06:17]Cola 2.0 (Knight’s ComputerWife)
+: Yes, but that wasn't harnessed intentionally harnessed until 1003
+It was just a funny radioactive material in the ground that accelerated evolution a little
+[06:17]Cola 2.0 (Knight’s ComputerWife)
+: No different to plants evolving faster if they were growing near dormant urainium
+[06:18]mjeiouws: so overall i'm taking this to mean that gene-shaping is a very recent discipline, and that broader anatomical and medical understandings did not arise until well into the period when gene-shaping was in full swing, which in a resource-scarce wartime situation seems like a lot of black-box shenanigans are happening
+[06:18]Cola 2.0 (Knight’s ComputerWife)
+: Yes
+[06:18]Pickaxe da Wolf
+: ...radioactive?
+[06:19]Cola 2.0 (Knight’s ComputerWife)
+: Easily shedding electrons is the correct term
+[06:19]Cola 2.0 (Knight’s ComputerWife)
+: mb
+[06:19]Cola 2.0 (Knight’s ComputerWife)
+: But you all get the point
+[06:19]Cola 2.0 (Knight’s ComputerWife)
+: The results are the same
+[06:19]mjeiouws: iseeisee
+that's
+a lot of black-box shenanigans to be running an economy on
+but i think i'm much better grasping the overall vibe
+[06:21]Cola 2.0 (Knight’s ComputerWife)
+: If you're in a seemingly endless war of attrition where the only way to win is to outlast the enemy
+Being able to make more living things to throw at the war is kind of the ultimate way to win that sort of fight
+[06:22]mjeiouws: yeah, that much is reasonable
+i mostly just had no clue how many people had to be in the lab for how long to set up the equivalent of an iron mine, or if that analogy was even apt
+[06:23]mjeiouws: hmhmhh
+[06:26]Cola 2.0 (Knight’s ComputerWife)
+: The NDF threw every penny and spare scientist they had at this shit the moment PHI invented advanced bioengineering 
+It's like if the US put every company and engineer into one single field
+[06:26]mjeiouws: would it be apt to say that a lot of the NF's 'machinery' is in effect self-regulating on the macroscale, in that it reproduces and evolves via selective processes, save at an extremely rapid and much more specifically targeted way? 
+[06:27]Cola 2.0 (Knight’s ComputerWife)
+: Yes
+Provided the logistics machine keeps running, every organism works in it like clockwork
+In effect, the NF's economy is an artificial ecosystem
+[06:28]mjeiouws: dayum
+so it's real deep in black-box territory
+[06:28]mjeiouws: clockwork doesn't feel like the right phrase to me for this haha
+[06:29]mjeiouws: that shit locks up and wears out without supervision 
+[06:29]Cola 2.0 (Knight’s ComputerWife)
+: Mhmm
+[06:32]mjeiouws: so looked at from another perspective, the Navarin economy is a giant polyculture soup farm continuously fed and maintained by human efforts, like shovelling shit and moving hay
+[06:33]mjeiouws: and at the height of the war, the crop was the evillest projectile delivery amphibians ever spawned from the gene swamp
+[06:33]mjeiouws: which in certain cases were enabled by strapping helicopter rotors to their numerous ribcages
+[06:34]Knight | The Lizard Wizard
+: What's going on?
+[06:34]mjeiouws: i am
+word souping at cola to figure out how navarin work
+[06:34]Cola 2.0 (Knight’s ComputerWife)
+: Someone is finally understanding the NF
+[06:34]Cola 2.0 (Knight’s ComputerWife)
+: And I am extremely happy about it
+[06:35]Knight | The Lizard Wizard
+: I see
+[06:35]Cola 2.0 (Knight’s ComputerWife)
+: Yesssssss
+[06:35]Cola 2.0 (Knight’s ComputerWife)
+: Like how oil is the true currency of the our world
+Food and nutrients is the true currency of the NF
+[06:36]Cola 2.0 (Knight’s ComputerWife)
+: It is the foundation of NF society and technology
+[06:37]mjeiouws: truly in opposition to the hypercentralised switchboard consciousness of the Nexus
+[06:37]mjeiouws: at least in terms of the direct feedbacks and linkages
+[06:39]mjeiouws: 'every penny and spare scientist' is rather too abstract and insufficient to encompass what the NF achieved, i think
+[06:43]mjeiouws: until now i was still operating off brick-and-mortar assumptions, and all the management involved in shifting around those bricks and cement trucks
+[06:48]mjeiouws: gah
+insufficient brain for thoughts
+hopefully the word soup has enough connotative weight in the right places to be useful for somebody else, i do want to add more to the description (that isn't already there that is, i've mostly parroted half-remembered snippets) somehow but
+brain 
+[06:50]Cola 2.0 (Knight’s ComputerWife)
+: That is fair
+What I meant was that the NDF halted or canceled all development in every single non-essential field and dedicated all it could to advanced bioengineering 
+Like how the USSR dedicated everything to moving it's entire industrial base to the Urals when it was invaded by the Nazis
+[06:50]Knight | The Lizard Wizard
+: Welcome back to... Real life?
+[06:53]mjeiouws: the USSR's move to the Urals was massive, but fundamentally every factory was still largely expressible in (human!) paperwork (although the paper trail does get very shoddy), inputs were proportional to outputs, contracts were still being competed for, and orders were coming down from on high with blueprints and tools for whatever was changing 
+[06:54]mjeiouws: the reallocation was what enabled the shift, but the shift (for the NF) itself has a lot of aspects that fundamentally changed the management of the economy in ways that are difficult to describe 
+[06:54]mjeiouws: and that was what i was word souping to try and capture
+[06:55]mjeiouws: like the difference between a plantation economy and a merchant economy
+[06:56]mjeiouws: rn i'm hammering the farm comparison into my brain so it'll stick, but obviously it's not quite apt to describe the situation
+[06:57]Cola 2.0 (Knight’s ComputerWife)
+: Fair
+But to the NF food isn't just needed to feed it's people
+Its needed for everything
+When the NF talk about food, it's in a similar vain to when IRL countries speak of petrochemicals 
+Food is the common denominator 
+Your car irl doesn't run on wheat, but in the NF it sure as shit does
+Irl no machine needs nutrients to operate, but in the NF they run on it and need lots of it
+It's how they get energy that can be used to do work
+There's a big difference to humans and animals needing food and your entire industrial base needing it just to even stay alive
+[06:57]Knight | The Lizard Wizard
+: Gasoline is just chemical energy just like vegetables are
+[06:58]Knight | The Lizard Wizard
+: Any vehicle takes chemical energy and converts it to kinetic or mechanical energy
+[06:59]Cola 2.0 (Knight’s ComputerWife)
+: Yes, but it's not food and thus is made in an entirely different way
+Both are sources of energy but completely different in how they are extracted and utilized
+[06:59]mjeiouws: all economies run on food, the difference is in the hierarchy of processing
+[06:59]Knight | The Lizard Wizard
+: I know
+[06:59]Cola 2.0 (Knight’s ComputerWife)
+: Your car doesn't need to digest gasoline
+That was the comparison I was making
+[06:59]Knight | The Lizard Wizard
+: I see
+[07:00]Cola 2.0 (Knight’s ComputerWife)
+: The NF is by requirement a partially industrialized but ultimately agrarian economy because of all of this 
+[07:00]mjeiouws: industrialized is a funny word
+[07:01]mjeiouws: as in the industrial-subsistence scale doesn't really express the change that's happening 
+[07:01]mjeiouws: it is industrial, massively so
+[07:01]Cola 2.0 (Knight’s ComputerWife)
+: Just not in the traditional sense
+[07:05]Cola 2.0 (Knight’s ComputerWife)
+: Industrial usually means the transition from manual labor to machine labor
+But unlike in real life where the machines were mechanical and electrical devices, here the labor is being done by living things
+The labor is still manual in a way, just not done by humans
+[07:06]Cola 2.0 (Knight’s ComputerWife)
+: Just instead of an ox or human pulling a plow, it's a bio-mechanical traction unit 
+[07:07]mjeiouws: as propagation becomes universal, every farm evolves, to meet the design objective of production and resilience, and to meet the accidental objective of survival; all things shift to meet the situation, and with the constant mutation both human-stimulated and natural, the act of retooling takes on another meaning 
+[07:07]mjeiouws: except instead of operating on the business as a unit, it operates on the unit of the genetic strain
+[07:09]mjeiouws: but this also likely depends on how much is mobile, how much can be interchanged, and what their replacement cycle is
+[07:14]mjeiouws: on the other hand, i don't know the intellectual property laws, to what extent the natural (or so pervasively induced as to be natural in effect) adaptation occurs, on what scale it occurs
+[07:14]Cola 2.0 (Knight’s ComputerWife)
+: Well, retooling is something that can be done on the fly
+Everything in the NF is produced through additive manufacturing 
+Biological 3d printing using any material
+It's as simple as changing the genome of a machine which at most may take a few hours for truly massive machines
+[07:15]mjeiouws: hm
+[07:15]mjeiouws: by 'everything', you mean everything nonliving, right?
+[07:15]Cola 2.0 (Knight’s ComputerWife)
+: You can turn a lathe into a rock crusher in under a day if you so wished
+[07:16]mjeiouws: and in changing the genome, does the organism not need to return to an embryonic stage of a sort to organize its rebirth?
+[07:16]Cola 2.0 (Knight’s ComputerWife)
+: No, that includes living things
+Pregnancy is how all complex bioengineered organisms are made
+[07:17]mjeiouws: so essentially you have tiered 'mother' organisms with stored databanks of 'child' organisms of a different species (or an alternative expression of the mother species, more likely), which can be assembled additively?
+[07:18]Cola 2.0 (Knight’s ComputerWife)
+: Not with how the NF does it
+It's more akin to rewriting code in a piece of software and updating each copy of thst software in every computer that has it
+Each cell has a new version of the genome distributed to it via a special fungi thst grows around every clump of cells in an organism
+Once the distribution is complete, it's just a matter of putting the organism in a state of hyper accelerated growth until the change is complete 
+[07:18]mjeiouws: right, so that hyper-accelerated growth, that's what i mean
+[07:19]Cola 2.0 (Knight’s ComputerWife)
+: Ah, I see lol
+[07:19]Cola 2.0 (Knight’s ComputerWife)
+: Mhmm
+[07:19]mjeiouws: hm
+[07:20]mjeiouws: i'm just gonna guess that whatever comes out, isn't quite cookie-cutter grade
+[07:21]mjeiouws: what guards does the Navarin tech place on replication errors? Or do they just kind of roll with it and constantly maintain the genome?
+[07:21]Cola 2.0 (Knight’s ComputerWife)
+: Anything that isn't perfect is killed and has it's biomass recycled
+[07:22]mjeiouws: that's a lot of wasted energy, innit
+[07:22]mjeiouws: and if it cannot be repaired, it implies that the genetic reconfiguration you mentioned earlier is a daunting task
+[07:23]Cola 2.0 (Knight’s ComputerWife)
+: Cancer
+[07:23]Cola 2.0 (Knight’s ComputerWife)
+: If an imperfect organism is left to live it can easily turn cancerous and spread to the mother that's gestating it
+[07:24]mjeiouws: and that's handled on the macroscale, and not by implemented immune systems?
+[07:24]mjeiouws: Or are both implemented, but the threat of cancer simply too great?
+[07:24]Cola 2.0 (Knight’s ComputerWife)
+: Ideally it would be handled and that's what happens most of the time
+[07:25]Cola 2.0 (Knight’s ComputerWife)
+: But if an organism develops genetic defects it almost always turns into an aggressive cancer due to the accelerated growth processes
+[07:25]mjeiouws: hm
+i see
+[07:26]mjeiouws: is the accelerated growth not something that can be substituted by massive batch production? 
+[07:26]Cola 2.0 (Knight’s ComputerWife)
+: It could, but the NF prefer to do both
+[07:26]mjeiouws: iseeisee
+[07:27]mjeiouws: so there are batch-type assemblers, and more compact additive assemblers dependent on accelerated growth strategies
+[07:27]Cola 2.0 (Knight’s ComputerWife)
+: Yes
+[07:29]Cola 2.0 (Knight’s ComputerWife)
+: Typically batch types are used on mass production while accelerated growth assemblers are used for small production lines that need to adapt quickly to making different products
+[07:30]mjeiouws: it seems overall that in-situ alteration is a fairly risky process then, potentially leading to death of the whole assembler
+[07:30]mjeiouws: at least on the individual scale
+[07:30]Cola 2.0 (Knight’s ComputerWife)
+: Yes
+[07:31]mjeiouws: damn
+that's a lot of nutrients spent
+[07:32]Cola 2.0 (Knight’s ComputerWife)
+: It's why having high volumes of the stuff on hand is so important 
+[07:32]mjeiouws: on the note of recycling, are there strategies undertaken to reduce the impacts of predatory/parasitic rot (viral, bacterial, yeast, even animal) growth beyond immune systems, or are the immune systems themselves widespread and generally viewed as the primary maintenance burden? 
+[07:34]mjeiouws: e.g. whether you can just kind of pickle a bunch of organisms when they're not in use (a specific case) 
+[07:34]Cola 2.0 (Knight’s ComputerWife)
+: The latter
+[07:34]mjeiouws: iseeisee
+[07:34]Cola 2.0 (Knight’s ComputerWife)
+: As it stands currently, there is no true long term storage for biomachines
+[07:34]Cola 2.0 (Knight’s ComputerWife)
+: One way or another, they will die and rot without constant attention
