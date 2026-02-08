@@ -9,3 +9,44 @@ The motive system of the MT-U7 employs pulse boiler technology; operating at 35 
 Heavy, underpowered, and slow to start, the MT-U7 is not doctrinally considered an effective reaction fighter, both in the sense of its vulnerability when landed, and its poor performance when not given time and space to climb and securely position itself. Rather, vulnerable positions are expected to be promptly evacuated and defended with heavy gunfire and redirected patrols - absent reliable intelligence, squadrons rapidly accumulate flight hours, making essential the MT-U7's reliability and ability to rapidly swap out its relatively inexpensive combustors and turbines. Likewise, the ability to burn marginal fuels without damaging complicated machinery is vital to its wartime serviceability. MT-U7s are able to launch from and land on airships, and are vital for naval escort and surveillance; while poor bombers, they provide significant firepower enhancement as self-protecting naval artillery spotters.
 
 The MT-U7 typically deploys on long patrols in loose formation. Most will remain at high altitude, where they can comfortably maintain speed and course; where needed, detections from a low-flying pilot - particularly when relying on acoustic detection - are sent over radio, at which point the group coalesces to either pursue the target or cover the scout(s). Directed/ranged fire is used at distance or against a predictable target, while forward fire is employed at close approach angles and distances. Contact is kept as short as possible, precluding loss of energy that would place a lighter target at advantage. To secure a clean escape, MT-U7 units are expected to operate in opposed pairs, using one another to efficiently range and destroy interceding aircraft. The gunner would be expected to continuously range and lay fire on the targeted aircraft via the turret while coordinating over radio, broadening the aircraft's effective engagement cone, improving energy retention, and reducing the risk of being caught or evaded by a manoeuvring aircraft.
+
+
+-- Miscellaneous engineering notes: MT-U7 specifications --
+
+Length: 13.5m
+Diameter: 2.1-2.3m
+Wing length (root to tip): 16m
+Wing depth: 4~2m near tip, elliptical profile
+
+Pulse boiler:
+>> valved ram-intake combustor w. 3m resonance length @ 60 Hz, chamber volumetric combustion intensity of 30 MW/m3
+(reference:  Argus air-cooled @ 12-20 MW/m3, 1951 coal fired pulse combustor @ 51 MW/m3 (5e+6 btu/(h.ft3)) @ https://ntrs.nasa.gov/api/citations/19830022277/downloads/19830022277.pdf)
+..  Peak/trough temperature 1300(?)-700C, eff. temperature 900 C
+.. 6~7 MW heating value, in 3m length, 57 cm diameter resonant chamber containing 15 40mm diameter (~0.15 kg/s each, turbulent flow), 0.5m length 5mm thick exposed prometheum water tubes parallel to combustor axis (28% chamber volume occupancy). Pipes transition to refractory-shielded 10mm steel until becoming thin steel in cooler exhaust sections beyond the resonant region (~400-500 C), entering the superheating stage; feedwater is preheated by cooling chamber walls. Total estimated combustor-boiler mass of ~300 kg. (about 16-25% of thermal power/weight ratio of As 014 pulsejet)
+NOTE - acoustic impedance of combustor due to obstructions (pipes, etc.) is overcome with aid of ramped intake pressure - low-speed operation inefficient!
+
+Steam outlet: 4 MPa, superheated dry steam @ 450 C, suitable for ~20-25% Rankine cycle efficiency w. good late 20s turbine tech.
+
+From previous work:
+Turbines: 600-650 kg for 2 units
+Condenser: 1100-1300 kg, copper alloy
+.. est. w. prometheum arc: 100-300
+Pumps & auxiliaries: 300 kg
+Extra insulation: 300-400 kg
+
+Shaft power specification: 1500 kW
+Total power plant mass w. improved combustor: 2600~2950 kg, or 1600~1950 w. prometheum arc radiators
+kW/kg: 0.5~0.58 (w/o water)
+.. 0.77~0.94 kW/kg w. prometheum condenser - almost competitive! 
+
+
+(very) rough fuselage estimates:
+B-17 @ 10,400 kg dry, minus 4x537 kg engines: 100 m3 vol -> 82.5 kg/m3 ...
+MT-U7 w. cylindrical approximation of ~50 m3; w. taper, guesstimate 30 m3 -> 2475 kg; 1500 kW / (2475 kg + powerplant mass) = 0.275~0.37 kW/kg dry PWR for whole aircraft : most optimistic number equivalent to loaded-weight PWR of Yak-1 fighter, or dry-weight De Havilland mosquito(!) Likely at least 10% worse at best, though.
+
+Mass of structural reinforcement, weapons systems, crew accommodations, avionics not calculated explicitly.
+
+
+
+
+

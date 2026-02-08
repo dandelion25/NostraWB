@@ -1,0 +1,100 @@
+**Siayeo Fuel Harvesting - Mean & Green**
+
+The energy needs of the Nexus are substantially fulfilled by hydroelectricity and hydrothaumy, and wind, the latter having most impact in the shipping industry. Yet the Great Tree is not omnipotent, electric processes are limited, and most Siayeo states are not blessed with the hydraulic wealth of the Yeoxli heartland. For the eighty percent that remains, energy is fuel, and the collection of that fuel occupies a substantial portion of the Nexus' cultivated surface area.
+
+Fossil fuels in the Nexus face significant obstacles to their exploitation, exacerbated by heavy flooding, repeated supply shocks, and the fragility of the deposits themselves. Persistent tectonic and hydrothermal activity across the Nexus has heavily degraded the quality of its coal and oil, leaving much of it fragmented or inundated with corrosive and hazardous contaminants - most infamously raw prometheum, whose shock-sensitive, flammable properties are often to blame for mass casualty events in the limited number of Siayeo coal mines. Siayeo fossil fuel operations are thus overwhelmingly petroleum-dominated, supplying around twenty percent of the Nexus' fuel needs - due to its low quality, however, Siayeo states have come to import up to a fourth of their refined petroleum products from Maritova, Nya, and the IDU, in descending degree of importance.
+
+By and large, more than 65 percent of the Nexus's fuel needs are met by biomass in the form of raw wood, charcoal, tar, oil, and producer gas. Often produced locally, the erratic burn characteristics and low calorific density of these fuels has contributed to the outsized dominance of steam and stationary engines in the Nexus; nevertheless, the comprehensive electrification and distributive agility of the Nexus mitigates many of the disadvantages inherent to its biofuel economy. 
+
+Roughly two thirds of the energy biomass of the Nexus is harvested from inland coppices, mature forests, and mangrove plantations. Owing to advances in aquaculture, steam-powered canal propulsion, and water management, saltwater and brackish wetlands have been artificially extended tens of kilometres across the continental shallows of the Yunamer and Nengi passages to sustain the burgeoning aquacultural and energy demands of Siayeo states. Where traditional forestry systems began to stagnate in the late 990s due to rising land and labour costs, the ease of harvest, transport, and coppicing of mangrove lumber in these newly raised terranes allowed wood products to remain economical at incredibly low prices, fuelling the continued growth of Siayeo industry.
+
+(ref : mechanized willow coppice: 7~12 t/ha/yr dry mass @ ~18 MJ/kg, ~180 GJ/ha/yr @ ~20 workdays/ha/yr : 8~10 GJ/workday v.s. 7~20 GJ/workday w. coal | mechanized mangrove production estimate: 15~20 GJ/workday)
+
+Of the remainder, roughly half is recovered waste biomass from food production and half again is harvested from aquatic plants and algae: in the mid-1020s, Siayeo scientists pioneered the production of biocrude with hydrothermal processes inspired by Navarin fuel plants, yielding a thick, corrosive tar usable either directly or in subsequent cracking into higher-quality products. Being poorly competitive with even low-quality fossil crude for engine use, it is produced mainly in Loai to satisfy its need for fuel autonomy; elsewhere, algal biomass is mainly used as feedstock for ethanol production and the various chemical industries.
+
+
+== Auxiliary tidbits : Lichen Productivity Studies ==
+
+Mechanization assumptions: Mangrove coppicing
+Cutting: Small steam or gasoline-powered saws (similar to portable sawmills of the era) operated from rafts. Each crew can fell and process significantly more biomass per day than hand tools. Let’s assume tripling cutting speed versus manual.
+Transport: Rafts now carry larger loads with minimal manual labour, so handling effort drops another 50 %.
+Channel management: Small mechanical dredgers or winches help move rafts and maintain channels. Labour for maintenance drops slightly.
+Yield: Biological yield doesn’t change (~8 t/ha/year dry), but labour input drops sharply:
+Cutting/stacking: ~7 person‑days/ha/year
+Raft/channel management: ~3 person‑days/ha/year
+Total: ~10 person‑days/ha/year
+Energy content: 8 t × 18 MJ/kg ≈ 144 GJ/ha/year
+GJ per workday: 144 GJ ÷ 10 days ≈ 14–15 GJ/workday
+
+Comparison table (1920s, approximate):
+System	Yield (t DM/ha/yr)	Energy (GJ/ha/yr)	Labour (person‑days/ha/yr)	GJ/workday
+Willow SRC (manual)	10	180	40	4.5
+Willow SRC (modest mechanization)	10	180	20	9
+Mangrove wetland rafts (manual)	8	144	25	5.8
+Mechanized coal mining (rich seam)	–	–	–	15–20
+
+Mycoalgae biofilm: development of a novel platform technology using algae and fungal cultures
+(src : https://link.springer.com/article/10.1186/s13068-016-0533-y)
+Use of Fungal Mycelium as Biosupport in the Formation of Lichen-like Structure: Recovery of Algal Grown in Sugarcane Molasses for Lipid Accumulation and Balanced Fatty Acid Profile
+(src : https://www.mdpi.com/2077-0375/12/3/258)
+The co-culturing of microalgae and fungi for synergistic valorization of alkali pretreatment liquor
+(src : https://www.sciencedirect.com/science/article/abs/pii/S2214714425004520)
+.. 2.75 x algal productivity boost in co-culture organic matter transformation pipeline
+
+
+== GPT estimates : Plantation Biomass Competitiveness ==
+
+Crop comparisons (dry matter productivity):
+Poplar tree plantations - 5~15 t/ha/yr
+Kudzu + fertilizer - 15~20 t/ha/yr
+Natural kudzu - 5~10 t/ha/yr
+Miscanthus (grass) - 20-46 t/ha/yr
+Willow (tree) - 10~30 t/ha/yr
+
+
+
+note -- labour intensity comparisons
+
+Quick-and-dirty numbers for a mid-19th-century industrial district's energy consumption, say ~100,000 GJ/year (enough for a modest town’s heating, small workshops, and a local foundry).
+. Vine–bioscum forest assumptions:
+1. Fast-growing woody vines: ~25 t dry biomass/ha/year (aggressive, irrigated, nutrient-buffered).
+2. Energy content of biomass: ~18 MJ/kg dry → 25 t × 18 MJ/kg ≈ 450 GJ/ha/year.
+3. Charcoal conversion: 30% yield by weight → ~7.5 t charcoal/ha/year → 18 MJ/kg → 135 GJ/ha/year.
+4. Gaseous byproducts: 10–15% of input → ~50 GJ/ha/year usable locally.
+Total effective energy per hectare per year: ~185–200 GJ/ha/year.
+. Area needed to replace coal:
+1. Coal district energy: 100,000 GJ/year
+2. Hectares required: 100,000 GJ ÷ 200 GJ/ha ≈ 500 ha
+. Scale commentary:
+1. That’s roughly 5 km² — not enormous for a single industrial district.
+2. Scaling to a regional industrial hub of 1 million GJ/year → ~5,000 ha (50 km²). Still feasible with aggressive irrigation and ponded systems.
+3. To match a continental coal supply, obviously, you’d need tens to hundreds of thousands of km², which quickly becomes labor- and logistics-limited.
+. Key takeaways:
+1. Locally and regionally, the vine–bioscum system is credible as a coal substitute for district-level energy, especially when combined with charcoal + gas capture.
+2. At continental scale, it’s impractical for total energy replacement, but it offers strategic relief and renewables buffering, particularly where coal transport is expensive or unreliable.
+3. The biological buffering, nutrient cycling, and sulfur mediation are added “value” beyond raw energy — PV or coal can’t do that.
+//  SUMMARY COMPARISON //
+Coal:
+| Energy density : 24 MJ/kg || Fuel mass : 100,000 GJ ÷ 24 MJ/kg ≈ 4.2×10⁶ kg (~4,200 t)
+| .. typical mine crew (hand tools, horse carts, small shaft): ~50 workers could extract this in a year.
+| Energy per labor-day : 100,000 GJ ÷ (50 workers × 300 workdays/year) ≈ 6.7 GJ per person-day
+Vine charcoal:
+| Energy output per hectare/year: ~200 GJ
+| Labor per hectare/year: 50 person-days (midpoint of 40–60)
+| Energy per labor-day: 200 ÷ 50 ≈ 4 GJ per person-day
+Modern solar plant:
+| Energy output per hectare/year: ~200 GJ
+| Labor per hectare/year: ~3 person-days
+| Energy per labor-day: 200 ÷ 3 ≈ 67 GJ per person-day
+// SUMMARY - labour breakdown of pond-digester viticulture //
+Assumptions:
+1. Intensive vine canopy, ponded nutrient cycling, irrigation.
+2. Mechanical clearing (steam or horse-driven shredders) for overgrowth; manual labor for pond maintenance, irrigation channels, pruning.
+3. Biomass harvest once or twice per year.
+Rough estimate:
+1. Clearing/shredding: ~20–30 days/ha/year
+2. Pond management: ~5–10 days/ha/year
+3. Irrigation maintenance: ~5 days/ha/year
+4. Pruning and overgrowth control: ~10–15 days/ha/year
+Total: ~40–60 person-days per hectare per year
+.. For context, sugar cane in the 19th century was insanely labor-intensive: 300–400 person-days/ha/year in tropical estates with manual harvesting. So your “a tenth to a quarter” guess is very reasonable — even slightly optimistic for highly mechanized small-scale plots.
