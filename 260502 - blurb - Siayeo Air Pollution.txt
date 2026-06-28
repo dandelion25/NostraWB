@@ -1,0 +1,9 @@
+--
+
+**Blurbs : Siayeo Air Pollution**
+
+--
+
+ity air quality ordinances place limitations on the burning of certain fuels inside city limits, and the use of large, efficiently ventilated combustors significantly cuts down on the soot released by vehicles and trains, many of which are electrified or driven by a thermodynamic intermediary. Still, the release of ash and caustic emissions remains a significant problem, and both industrial quarters and non-polluting areas can be subject to 'bad winds' that either trap or bring in pollution. The most successful Siayeo efforts so far have involved massive tree-planting, hydrological, and shade engineering projects with aid of the Great Tree, creating new rains and air currents that entrap the pollution or blow it out to sea. Despite the emergence of simple scrubbers and wet screens for the chemical industry, the strict regulations on industrial wastewater handling have limited their deployment in most locales. Nitrous oxide pollution is actually quite low, due to the minimal reliance of Siayeo farming on nitrogen fertilizers - instead they rely on bioreactor-like 'black ponds' to sustain high agricultural throughput.
+
+Day-to-day air pollution  in the Nexus remains dominated by sulfur dioxide and, interestingly, the massive quantities of nuisance pollen and signalling chemicals released by many economically important plant species.

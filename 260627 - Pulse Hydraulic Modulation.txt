@@ -1,0 +1,14 @@
+-- --
+
+**Technology : Pulsed hydraulic control**
+
+--
+
+Hydraulic amplification was among the earliest of the problems solved by the Siayeo - after the gear, lever, and pulley, the valve is taught as being among the basic class of simple machines. The standard proportional valve, however, requires equal precision from both control and driver signals, the maintenance of which is an endemic problem in the fluidyne components used in actuarial hydraulics; in particular, while sufficient circuit quality can minimize this drift in purely mechanical couplings, precise proportional valve control cannot in practice be achieved by current electro-mechanical or even fluidyne-mechanical couplings, which are inherently lossy and cannot easily implement the feedback mechanisms used in gauge-hydrostatic machines.
+
+
+
+
+. This is not necessarily easy to deliver. The mechanical signal introduces new couplings, and burdens of maintenance. The hydraulic signal, though occasionally blessed with inhabitation, is not faithful across the rigors of practice, and ultimately beholden to the means of its conveyance. The electrical signal, though of inexpressibly great utility by way of the innovations of our new millennium, is limited by the problems of the electric motor, foremost among them the difficulty of conveying precise movement.
+
+--

@@ -1,4 +1,4 @@
-*The Greeting of Others*
+**The Greeting of Others**
 
 -- --
 

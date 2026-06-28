@@ -1,0 +1,39 @@
+
+-- Blurb: Demographics of the Siayeo Nexus (population estimate ft. Atlowe) --
+
+Total population in 1030 AC : 850,000,000
+..
+Batan Yzna 24%: 204,000,000
+Hueyoli 21%: 178,500,000
+Moud Yikh 19%: 161,500,000
+Temei 13%: 110,500,000
+Other 12%: 102,000,000
+Cahsila 8%: 68,000,000
+Humans 3%: 25,500,000
+Tilcona 0.9%: 7,650,000
+Khoggee 0.1%: 850,000
+
+-- Subgroups --
+
+> Hueyoli : 21%
+The Hueyoli spread far and wide in the age of the Yeoxli Empire, bringing with them their soft, drooping ears, long snouts, and infamously sure footing to the four corners of the ancient world. They are accustomed to bitter cold, bitter food, and bitter air, the combination of which has driven a divide in the incense markets of the Nexus.
+
+> Batan Yzna : 24%
+The Yzna form a majority in many of the Yunamer states, from the plains of Urwe to the swamps of Jiayan. Close in appearance to the Hueyoli, they are distinguished by their long ears, short noses, and a love for floral scents and spices that has figured prominently in the history of Yunamer trade. Well-known as a seagoing people, depictions of them can be unearthed from caches and archives as far afield as Ferrum.
+
+> Moud Yikh : 19%
+Sharing a distant ancestry with the people of the First Stars, the Yikh are distinguished by their sharp, narrow features: eyes, nose, limbs, and teeth. More often seen in the northern and eastern regions of the Nexus, it is said that the most reliable indicator of their presence is the diversity of sweet and savoury foods in a neighbourhood.
+
+> Temei: 13%
+Unknown prior to the founding of Jia, the unearthing of ancient subterranean empires to the South have unveiled clues to the distinct appearance of this mouse-like central eastern Qayan people. Ancient records describe an extremely diminutive stature and shrewd, calculating nature: some think these to be exaggerations, while others posit them to be traits that have diluted across generations of mingling.
+
+> Cahsila: 8%
+The people of Loa and the regions to its east exhibit features reminiscent of both the Yzna and Yikh, but possess long whiskers and dextrous tails. Though the histories are unclear, many of their legends tell of a great struggle between them and the ancient Temei.
+
+> Humans : 3%
+Consisting the bulk of the population in Laylain, humans have trickled across the sea since time immemorial. Yet in no greater numbers did they arrive than as refugees during the Nyayanese conquests - and worse, as Nyayanese captives - culminating in the creation of a stereotype of moral and monetary destitution that has persisted to this day. Despite now forming a significant minority in the Nexus, humans not of Marikovan appearance receive little respect, and often occupy precarious positions in society.
+
+> Khoggee, Tilcona : 0.1%, 0.9%
+Contact with the Northern islands has frequently been accompanied by migrants, be they refugees, traders, or prisoners of war - many of the current generation can trace their origins to the Thoukul state and its contemporaries. Recently, the unification of Gasane and Irdenian records has seen a rise in the documented number of Northern Islands peoples and their villages.
+
+Other : 12%

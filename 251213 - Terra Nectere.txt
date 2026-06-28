@@ -1,4 +1,4 @@
-bits and bobs:
+bits and bobs: Terra Nectere
 
 1. There are regions in the Nexus where hydrological assimilation has progressed to the point that even falling rain carries the Great Tree's influence. Dew, rain, and mist-catching magical devices are developed for use in these regions, and skilled adepts can tap into the Great Tree's awareness to monitor and perturb their climate. Terraforming initiatives have significant contributions to the Nexus's current prosperity - more than half of its fresh water is supplied from artificial microclimate regions.
 
@@ -8,7 +8,19 @@ bits and bobs:
 
 4. The 'gift of harmony' describes a belief of the Lotus Cult, which casts the Great Tree's continued expansion as a means of achieving enlightenment and oneness with the world. Their funerary rites involve casting the ashes of the dead into sanctified streams and rivers; adherents who reach greater heights of personal and environmental harmony are thought to be able to join the Great Tree and become more enlightened than their physical embodiments allow.
 
---- ---
+note :: Shisha & the Prediction Industry
+Through decades of focused investment in cybernetics and earth science, Shisha has evolved into the Nexus's preeminent insight capital, where natural philosophy, cybernetic foresight, and the power of the Root converge. Coupled directly to the thaumic awareness of the Great Tree, the mechanisms of Shisha can collate and calculate the properties of soil, water, forests, geology, and even commodity markets, giving governments and corporations across the Nexus the means to optimize agriculture, power distribution, and urban infrastructure, among other things. In hydrologies fully assimilated by the Great Tree, Shisha engineers can go beyond forecasts to shape the very weather to their needs, forming the basis of vast terraforming projects across the Nexus - once unique to the fog terraces of Eiyanixie, saltpine oases now supply more than a fifth of the Nexus' potable water. Though no longer alone in wielding this sacred awareness, the state of Shisha continues to maintain a subtle but pervasive authority as the de-facto socioeconomic lynchpin of the Nexus, a position it has held since the creation of the first Omen Developer.
+
+
+
+
+
+
+
+
+
+
+--- --- [GPT blurb .. 
 
 Meteorological and Transpiration Considerations for Tree-Based Magical Influence
 
@@ -32,8 +44,6 @@ Planning must account for seasonal and local precipitation variability to optimi
 The weather service evolves into a central hub for civilian, economic, and political decision-making, because every fluctuation in rainfall, soil moisture, and forest transpiration directly affects the Great Tree’s power output, its networked awareness, and the availability of energy or magical services. The demand for accurate, high-resolution forecasts drives rapid advancement in computational models, integrating land–surface interactions, hydrological continuity, and forest canopy dynamics. Over time, the institution gains unusual authority: governments, agricultural planners, and commercial enterprises all rely on its predictions to coordinate resource allocation, energy distribution, and regional governance, effectively making it a backbone of societal infrastructure. Military considerations remain relevant, but only as a secondary layer, dependent on the same environmental and hydrological insights that guide everyday civilian and political operations.
 
 -- --
-
-Through decades of focused investment in cybernetics and earth science, Shisha has evolved into the Nexus's preeminent insight capital, where natural philosophy, cybernetic foresight, and the power of the Root converge. Coupled directly to the thaumic awareness of the Great Tree, the mechanisms of Shisha can collate and calculate the properties of soil, water, forests, geology, and even commodity markets, giving governments and corporations across the Nexus the means to optimize agriculture, power distribution, and urban infrastructure, among other things. In hydrologies fully assimilated by the Great Tree, Shisha engineers can go beyond forecasts to shape the very weather to their needs, forming the basis of vast terraforming projects across the Nexus - once unique to the fog terraces of Eiyanixie, saltpine oases now supply more than a fifth of the Nexus' potable water. Though no longer alone in wielding this sacred awareness, the state of Shisha continues to maintain a subtle but pervasive authority as the de-facto socioeconomic lynchpin of the Nexus, a position it has held since the creation of the first Omen Developer. [https://discord.com/channels/1181917144708022282/1332720792013770865/1364276193687506985]
 
 
 

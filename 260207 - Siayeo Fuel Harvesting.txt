@@ -1,8 +1,12 @@
+--
+
+
 **Siayeo Fuel Harvesting - Mean & Green**
+-- --
 
-The energy needs of the Nexus are substantially fulfilled by hydroelectricity and hydrothaumy, and wind, the latter having most impact in the shipping industry. Yet the Great Tree is not omnipotent, electric processes are limited, and most Siayeo states are not blessed with the hydraulic wealth of the Yeoxli heartland. For the eighty percent that remains, energy is fuel, and the collection of that fuel occupies a substantial portion of the Nexus' cultivated surface area.
+The energy needs of the Nexus are substantially fulfilled by hydroelectricity, hydrothaumy, and wind, the latter having most impact in the shipping industry. However, wind turbines are not reliable, the Great Tree is limited in attention and power, and most Siayeo states are not blessed with the hydraulic wealth of the Yeoxli heartland. For the sixty percent that remains, energy is fuel, and the collection of that fuel occupies a substantial portion of the Nexus' cultivated surface area.
 
-Fossil fuels in the Nexus face significant obstacles to their exploitation, exacerbated by heavy flooding, repeated supply shocks, and the fragility of the deposits themselves. Persistent tectonic and hydrothermal activity across the Nexus has heavily degraded the quality of its coal and oil, leaving much of it fragmented or inundated with corrosive and hazardous contaminants - most infamously raw prometheum, whose shock-sensitive, flammable properties are often to blame for mass casualty events in the limited number of Siayeo coal mines. Siayeo fossil fuel operations are thus overwhelmingly petroleum-dominated, supplying around twenty percent of the Nexus' fuel needs - due to its low quality, however, Siayeo states have come to import up to a fourth of their refined petroleum products from Maritova, Nya, and the IDU, in descending degree of importance.
+Fossil fuels in the Nexus face significant obstacles to their exploitation, exacerbated by heavy flooding, repeated supply shocks, toxic contamination, and the fragility of the deposits themselves. Persistent tectonic and hydrothermal activity across the Nexus has heavily degraded the quality of its coal and oil, leaving much of it fragmented or inundated with corrosive and hazardous contaminants - most infamously raw prometheum, whose shock-sensitive, flammable properties are often to blame for mass casualty events in the limited number of Siayeo coal mines. Siayeo fossil fuel operations are thus overwhelmingly petroleum-dominated, supplying around twenty percent of the Nexus' fuel needs - due to its low quality, however, Siayeo states have come to import up to a fourth of their refined petroleum products from Maritova, Nya, and the IDU, in descending degree of importance.
 
 By and large, more than 65 percent of the Nexus's fuel needs are met by biomass in the form of raw wood, charcoal, tar, oil, and producer gas. Often produced locally, the erratic burn characteristics and low calorific density of these fuels has contributed to the outsized dominance of steam and stationary engines in the Nexus; nevertheless, the comprehensive electrification and distributive agility of the Nexus mitigates many of the disadvantages inherent to its biofuel economy. 
 
@@ -13,7 +17,7 @@ Roughly two thirds of the energy biomass of the Nexus is harvested from inland c
 Of the remainder, roughly half is recovered waste biomass from food production and half again is harvested from aquatic plants and algae: in the mid-1020s, Siayeo scientists pioneered the production of biocrude with hydrothermal processes inspired by Navarin fuel plants, yielding a thick, corrosive tar usable either directly or in subsequent cracking into higher-quality products. Being poorly competitive with even low-quality fossil crude for engine use, it is produced mainly in Loai to satisfy its need for fuel autonomy; elsewhere, algal biomass is mainly used as feedstock for ethanol production and the various chemical industries.
 
 
-== Auxiliary tidbits : Lichen Productivity Studies ==
+== Auxiliary tidbits : Productivity Studies (warning: technology-difference factor estimates by GPT) ==
 
 Mechanization assumptions: Mangrove coppicing
 Cutting: Small steam or gasoline-powered saws (similar to portable sawmills of the era) operated from rafts. Each crew can fell and process significantly more biomass per day than hand tools. Let’s assume tripling cutting speed versus manual.
@@ -34,11 +38,11 @@ Mangrove wetland rafts (manual)	8	144	25	5.8
 Mechanized coal mining (rich seam)	–	–	–	15–20
 
 Mycoalgae biofilm: development of a novel platform technology using algae and fungal cultures
-(src : https://link.springer.com/article/10.1186/s13068-016-0533-y)
+(src : `https://link.springer.com/article/10.1186/s13068-016-0533-y`)
 Use of Fungal Mycelium as Biosupport in the Formation of Lichen-like Structure: Recovery of Algal Grown in Sugarcane Molasses for Lipid Accumulation and Balanced Fatty Acid Profile
-(src : https://www.mdpi.com/2077-0375/12/3/258)
+(src : `https://www.mdpi.com/2077-0375/12/3/258`)
 The co-culturing of microalgae and fungi for synergistic valorization of alkali pretreatment liquor
-(src : https://www.sciencedirect.com/science/article/abs/pii/S2214714425004520)
+(src : `https://www.sciencedirect.com/science/article/abs/pii/S2214714425004520`)
 .. 2.75 x algal productivity boost in co-culture organic matter transformation pipeline
 
 
