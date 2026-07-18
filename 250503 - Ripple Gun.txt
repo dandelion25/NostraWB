@@ -1,5 +1,9 @@
 [Ripple cannon // Stream cannon]
 
+SOURCE IDENTIFIED:
+"TEST RESULTS FROM A TWO-STAGE TRAVELING CHARGE LIQUID PROPELLANT GUN"
+@  https://apps.dtic.mil/sti/tr/pdf/ADA224593.pdf
+
 Made possible by advancements in the late 990s, the ripple cannon is a multi-charge weapon capable of high-velocity launch using fluid propellant. Each charge is lit synchronously with the passing projectile via a combination of capacitive and arcane measurement, boosting the projectile without waste or risk of rupturing the barrel. Though initially popularised as a means of reducing the barrel wear of high-velocity guns, a particular strength of the system was noted to have been the piecewise ignition of brisant or otherwise marginal propellants, which was soon co-opted by Eiyan military engineers in the pursuit of economic means for long-range bombardment of fortified islands.
 
 For a given weight and cost, ripple cannons do not offer superior single-shot performance to conventional systems; however, their clean combustion means projectiles can be quickly loaded, and the nature of the propellant - liquid oxygen and gelled heavy oil - lends itself to automated injection and mixing. Moreover, the even distribution of pressure means the breech can be made comparatively lightweight, with automated loaders being more easily fitted as a result. For a given fire rate, ripple cannons are far more compact than conventional batteries, making them popular choices when space and manpower are limited.

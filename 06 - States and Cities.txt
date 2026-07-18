@@ -25,12 +25,16 @@ Yiwayan
 
 Kifia
 - Capital : Aürbanisan
+.. Suochrosin ~ An ancient Leiak city, ruled by Wajanpi between 238 and 208 BC.
+.. Kisourbin ~ Now a prominent port city, home of Wajanpi during his retirement from 159 to 122 BC.
 
 Yineng
 - Capital : Barikh
 
 Gashan
 - Capital : Sarengcati
-.. Suochrosin ~ An ancient Leiak city, ruled by Wajanpi before 208 BC.
-
+.. Hceyanbacczan
+.. Junaanarosin ~ The second biggest city in Gashan, at the mount of the Belurugan river.
+.. Bhogyanasin ~ The northern provincial capital of Gashan.
+Koronsinnam : Mountain province that formerly divided Irden and Gashan
 

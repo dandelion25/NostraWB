@@ -1,0 +1,75 @@
+-- * --
+**Gashan Unification / Operation Iron Road, 996-1000**
+--
+
+In 994, skirmishes begin breaking out between Takke and Gashan irregulars both at sea and along the mountain border, in an escalation of territorial disputes fuelled by the discovery of guano islands, igneous prometheum deposits, and arsenic-free coal mines - the exploitation of which is carried out in large part by forced labour consisting of the khoggee and tilcona population of Irden. Emancipation raids are planned in secret by Gashan generals, but stall after records are discovered by Gashan public officials - nevertheless, Irdentu reprisals are carried out against freedman-populated border towns, bringing the two nations to the brink of war by the end of the dry season in 995.
+
+At the beginning of the wet season, Gashan receives an offer of intervention from Ferrum: namely, the execution of a combined operation between the militaries of the Gashan and Ferrum republics to put a final end to the despotic rule of the Takke Dynasty in the north. Following a brief telephone conversation between Gashan and Ferrum representatives through QTB channels, the offer is quickly accepted; pre-existing contingencies are assembled into an operational plan for the coming war, quartering the timetables of the originally planned 14-year war of attrition prepared by the Gashan general staff.
+
+In a formal communication between Ferrum and all Yunamer Passage Agreement signatories, war is declared on the 52nd day of 996 AC between the belligerent states of Gashan, Irden, and Ferrum. On the 55nd day, Gashan regulars advance upon the Koronsinnam mountain line; come sunset, the rumble of Ferrum shells on concrete can be felt from atop the walls of Junaanarosin, gateway to the Belurugan river.
+
+-- BACKGROUND --
+
+Following the death of Banbengsam in 979, many wished to pursue a war with dynastic Takke Irdentu - partly on ideological grounds, in continuation of the struggles of the Nuenkesarilit League that predated Banbengsam, but mainly in retaliation for the failed invasion and ensuing massacres by the Irdentu janissaries that had taken place amidst the confusion of the Mourning Day Revolution. Those in power knew, however, that such a war was impossible: the Irdentu regular army had reached the walls of the capital within days of Banbengsam's death, and the uncertain new regime could ill handle an existential conflict in addition to the already monumental task of managing the century of decay that factional struggle and despotic rule had wrought upon the ideals and governance of the Nuenkesarilit era. At the same time, despite the gradual defeat of monarchies in the eastern Siayeo Nexus, many voices in the Ten Banner Coalition still regarded the Gashan state as illegitimate, and the Tiaremed states could no more burden their twin agendas of expanding eastern Republicanism and normalizing friendly relations with the Yeoxli and Qayan blocs of the Nexus. For the time being, Gashan would stand alone in a crusade against Irden, at unacceptable cost to its dream of matching the prosperity of their Siayeo contemporaries.
+
+Over the course of the next two decades, Gashan's situation improved drastically. Between far-reaching agricultural reforms, revenue from petroleum extraction, and industrial investments from the emergent Urwe-Shisha economic bloc, Gashan had become prosperous and stable enough to maintain a competent military of its own. Direct military support from their apparent ally would still be lacking: the Tiaremed states had involved themselves in yet another conflict in support of revolutionary Loai in 987, to which was dedicated much of their military support and political effort. But in the years of its recovery, Gashan had found both a trading partner and ally in the Ferrum Republic, with which it was able to establish close ties without censure: far from being maritime rivals of the Siayeo, Ferrum had become a familiar ally and anchor amidst the turbulent restructuring that had taken place amidst the Laylain powers over the past century. Nevertheless, their penchant for taking suzerainty of coastal states was noticeable enough that most Siayeo states remained cautious of their activities - though much less so in Gashan, whose recent prosperity had dampened the spirit of Nuenkesarilit irredentism that had emerged in the early 980s. By 990, most denizens of Gashan considered the Irdentu more rivals to be suppressed than remants to be brought into the fold; by 991, with signs beginning to show of renewed Irden instability, the admiralties of Ferrum and coalition-affiliated Gashan fleets established a tacit understanding that in event of war, Ferrum occupation and restructuring of an independent Irden would be acceptable spoils for its aid in defending the hard-won fruit of Gashan's new peace.
+
+--
+
+MILITARY OPERATIONS:
+
+996 AC
+> Ferrum naval and aerial forces blockade the Irden coast and engage the coastal defences at Thymera, the southern capital, Junaanarosin, entrance to the Belurugan, and Bhogyanasin, the northern provincial capital, with the aim of securing forward ports, destabilizing the Irden cities, and linking up with the planned Gashan mountain thrust further inland.
+> Gashan regulars siege the Koronsinnam mountain line, supported by observation and txoci rocket fire from dirigibles of the Gashan Provisional Air Corps.
+> Initial engagements with Irden go extremely well for the Ferrum navy - with dirigible and aeroplane spotting of the Irden positions, the Irden navy is utterly destroyed, and coastal guns are suppressed offshore of Thymera. Irden learns to conceal its firing positions and rely more heavily on mobile guns, mitigating the initial shock of the air corps.
+> The siege of Thymera is interrupted by widespread slave revolts, disabling many of the coastal defenses and allowing the Ferrum navy to rapidly occupy the city with minimal losses. Thymera becomes a crucial supply base and port for the remainder of the conflict.
+> Notified of the seemingly paralyzed Irdenian forces, Gashan chariot forces advance towards the city of Thymera before stalling due to contaminated supplies, poor scouting, and unexpected encounters with rapidly mobilizing Irden regular forces.
+> Ferrum marines from the blockade fleet successfully liberate most khoggee and tilcona slaves located on Irdenian islands; of the 80,000 liberated, 4,800 volunteer as an auxiliary force to bolster the war effort along the Belurugan.
+> After fierce fighting through bunkers and river forts built during the early post-Nyayanese (900s-910s) era, the Ferrum navy is ultimately repulsed from the Belurugan and [...] rivers. A war of attrition settles in between the Ferrum navy and the various small forts and swamp redoubts sheltering Irden artillery.
+> Effective use of accurate heavy artillery fire allows the Gashan regular army to break through the Korosinnam mountain line and strike deep into Irden territory and out into the hills, at the cost of substantially thinning their supply lines. Takke khoggee janissaries fall back to prepared ambush positions to the west via a fighting retreat.
+> Unable to meet with the repulsed Ferrum expedition at the upriver waters of the Belurugan, the Gashan regular army begins retreating back towards the mountains.
+> Khoggee jannissaries launch a series of surprise attacks into the mountain jungles, breaking through the exhausted Gashan regular forces and briefly cutting off the forces beyond the Korosinnam mountain line before being repulsed.
+> A mass Irdenian chariot counteroffensive begins riding towards Sarengcati, unimpeded by the battered Gashan cavalry and bypassing the disorganized rear elements of the Gashan Regular army.
+
+
+997 AC
+> Ferrum regulars are able to establish a perimeter around Thymera, but are unable to shield the city completely from artillery fire - shells from reoriented coastal guns occasionally land in the city, terrorizing the population and impeding the flow of ammunition to the front line.
+> Kite-driven Irden bomb vessels and coastal artillery successfully repulse the Ferrum navy from the Irden heartlands, preventing the opening of a new front towards the Irden royal capital of Naraket.
+> Rapidly mobilizing Gashan militias are able to contest the Irdenian chariot advance from the rear, successfully directing Ferrum naval bombardment (and a handful of airship missions) to blast apart the telegraph lines enabling the rapid advance.
+> Irden regulars arrive to reinforce the corridor created by the elite cavalry, and begin entrenching the line uncontested - but with royal orders no longer arriving by telegraph, the Irdenian advance is stalled by militia action and conflicts in the chain of command.
+> A new front is opened in the northeast at the Irden-Dracinian border by Ferrum ground forces. With the Irden regular army already stretched over four fronts, the advance is barely slowed by Irden militia and janissary forces.
+> Ferrum shock troops at Thymera are able to advance further inland and towards the southern bank of the Belurugan, freeing the city from Irden terror bombardment and linking up the naval campaign with established ground forces.
+> The Gashan regular army in the east is able to recover and reorganize, driving northwest to once again meet up with Ferrum at the southern bank of the Belurugan - cutting off the remainder of south Irden and enabling the establishment of a cohesive front line facing the Irden heartland.
+> With the worsening Irden supply situation and the disruptions created by the opening of the northeastern front, Ferrum navy and shock troops are able to advance a third of the way up the [...] river.
+> A combined force of Ferrum shock troops and Gashan regulars successfully drive the Irden chariot forces inland along the Teyarugan river, but the Irden fortifications hold strong against the assault, with the river itself being occupied by janissaries aided by Irden gunboats. The eastern mountain campaign is nearly cut off before the timely arrival of supplies from Kifia and the newly secured path to Ferrum-occupied Thymera.
+
+998 AC
+> With forces in southern Irden exhausted and encircled, Ferrum-Gashan allied forces are able to defeat the chariot force and isolate the southern regulars and janissaries in a pocket in the jungle east of Thymera.
+> Northeastern Ferrum forces continue to be slowed by the Irden militias, but are able to cooperate with Ferrum and Gashan aerial corps to secure the norther bank of the [...] river, linking them with the Boghyanasin campaign - the northern provincial capital eventually falls, with only half of the Irden regular forces north of the river being able to flee across the waters.
+> Irdenian counteroffensives smash into the fortified line established by the linked Thymeran-Koronsinnam campaign forces, but are unable to establish a foothold south of the Belurugan - likewise, Ferrum and Gashan forces are unable to advance further northwards towards the Irden royal capital.
+> With both the northern and southern coasts of Irden fully occupied, the Irden forces are no longer able to hold against the concentrated Ferrum naval assault arriving with the beginning of the dry season. Irdenian regulars are forced to abandon their coastal positions and retreat beyond the maximum gun range of the Ferrum navy.
+> Brutal campaigns are carried out against the remaining Irden militias in the eastern mountains, involving the indiscriminate use of Ferrum-supplied incendiary munitions by Gashan heavy artillery. Villages are reduced to ash, and the supply lines of the Gashan regular army is finally secure come wet season.
+
+999 AC
+> A three-way pincer attack between Ferrum forces at the southern bend of the [...] river, Ferrum cavalry from the western coast, and Ferrum-Gashan allied forces from the northern bend of the Belurugan begins the march towards the royal capital of Naraket.
+> Despite having sustained a holding pattern for the better part of a year, the Irden regular army is neither able to counterattack nor reinforce the bases overrun by the combined Ferrum-Gashan forces. With the national powder stocks almost fully depleted, the roads and rails to Naraket are more liability than benefit - in less than sixty days, Ferrum and Gashan forces arrive at the gates of the city and deliver an ultimatum.
+> Ceasefire is declared between Irden, Ferrum, and Gashan on Y999.M9.D3.
+> On Y999.M9.D12, King Mirpoen and King Nagematel of the Takke dynasty capitulate to Ferrum.
+> On Y999.M9.D13, the parliament of Irden capitulates to the Gashan state.
+> Royalist irregulars continue fighting against the Gashan regular army in the east, while Parliamentary irregulars continue fighting against Ferrum shock troops in the northeast. Meanwhile, negotiations continue between Gashan and Ferrum regarding the ultimate fate of the Irden state.
+> Naraket is divided between Ferrum and Gashan in Y999.M9.D30, and official missives from the remnants of the Irden government reach most remaining forces by Y999.M12.
+> Several warlords emerge in the east and attempt to negotiate independence with Ferrum and Gashan forces, with little success.
+
+1000 AC
+> The last of the warlords is captured and executed for the crimes of treason, slaving, and tax evasion on Y1000.M2.D28.
+
+
+
+Notes :
+-- --
+Troops coming from : Kasovat + Seret
+++ : Thymera
+Ferrum is antimonarchist in this period, likely has ideological reasons to support operation iron road. 
+Wisden formation : 866 ~ Kasovat : 843 ~~ Nexus learns of what Ferrum is doing.
+
+
