@@ -9,3 +9,8 @@ The Marigold Republic shares a history with the Siayeo; Nexus hydroengineering a
 During a gala held on the eve of the new millennium, an Oropan noble suggested to a courtier of Urwe the construction of a new, mountain-crossing railway extending off the Oropan-Ceselles Nonstop Rail Corridor. The idea was met with great enthusiasm, and on the second day of the new year, a joint Nexus-Marigold planning committee was held in Oropan, the delegates arriving by airship. Marigold would immediately begin construction, finishing the transfer station to the new line in March of 1000.
 
 In mid-1001, after Marigold had laid down over 980 kilometres of rail and eleven stations, the Siayeo nation of Eiyanixie finally came to an agreement with the warring factions of Loa, and began construction north of the mountains. With the combined power of Marigold airlifting and Siayeo tunnel blasting techniques, workers were able to construct bridges, tunnels, and tracks in many places simultaneously along the planned route. The two sections met four months ahead of schedule, on the fifteenth of 1003 - an event celebrated to this day, flooding the line with visitors to the Millenium Trail Rail Exhibition each year. A cargo train was first to make the journey, carrying parts from Shisha for a new factory in Marigold.
+
+++ NOTE : Rail tunnel diameter - 7.5~8 metres
+++        Rail gauge           - 1.5 m
+++        Rail count           - 3 tracks
+++     Train WxH specification - 3.25 x 5 m (similar to Maritovan specification)

@@ -1,0 +1,82 @@
+-- * --
+
+Journey to the Stratosphere : [] (1020-1050)
+
+--
+
+By the late 1030s, military interest in high-speed aircraft and projectile weapons had given birth to different air-breathing jet propulsion concepts across the world. From piloted turbojet interceptors to ramjet missiles, to many it must have seemed like the dawn of a new age of aviation - but by and large, militaries of the Siayeo were not so optimistic. Once-promising investigations of ramjet and pressurized pulsejet engines had come to an end due to inadequate thrust and excessive vibration -  and though interest was briefly renewed in the artillery corps, they remained largely theoretical in nature. More broadly, Siayeo high-energy propulsion research had been deprioritized by the military since 1028 AC: investments in advanced optoelectronic targeting systems had seemingly negated the advantages of high-speed flight demonstrated during the 1025 Medijan Crisis, with NSR interceptors apparently unable to overcome the daytime combat ability of dirigible-coordinated turret fighter squadrons. Funding for advanced aircraft engines would come not from the military, but from the meteorological societies of the Siayeo Nexus.
+
+Aerial surveys had long been a vital part of the Siayeo economy, contributing not only to agricultural productivity and decision-making, but to the broader omen-processing ecosystem that had developed around the Great Tree during the cybernetic revolution. With the advent of long-range telecommunications and thumatic field theory, immense pressure was placed upon the Siayeo meteorological societies to expand their understanding of Nostra's upper reaches, going so far as to mandate the lofting of new, high-altitude thumatic and electromagnetic experiments in 1033 on the order of the QTB. Yet dirigibles had long reached their practical limits, and conventional aircraft could not practically lift the necessary observation stations and instrument assemblies to the necessary altitude to perform this task. Aerial survey crews piloting air-launched Cabora-Meix aircraft were able to reach significant heights by modifying their aircraft to function without condensing loops, but could not exceed 16,000 metres; according to known models and balloon surveys up to that point, going further would require a novel engine capable of operating in near-anoxic conditions of the middle and upper stratosphere, where air density was known to fall below 1.5% that of sea level.
+
+Though l before 1015, the birth of Siayeo rocket science was greatly accelerated by the widespread availability of prior expertise in cryogenics and oxy-fuel systems crucial to the operation of advanced metalworking tools and ripple cannons. Nevertheless, such devices relied on low-pressure or deflagration-driven valveless injectors, which did not lend themselves to stable operation of a continuous-flow rocket engine. Technical collaboration with Kasovat and Velkotra would eventually yield a suitable turbomechanical injector for aerospace use, but, in the early rocket age (1000~1040), Siayeo engineers would rely primarily on the much more volatile multistage injection systems adapted from ripple cannon chambers.
+
+Unlike conventional rocket turbomachinery, pulse injectors effectively place their working fluid in direct contact with fuel - that is, a series of low-pressure pumps are allowed to fill the pre-injection chamber sequentially with fuel and oxidizer, before igniting the oxygen-rich portion in a deflagration event that propels and vaporizes the remainder of the fuel mixture into the primary reaction chamber. While suitable for the interior of a gun barrel, the process is violent enough that rocket engines typically require many small injection chambers to be staged in sequence. Because of this, Siayeo rocket engines for a long time known for being heavy, complex, and prone to explosive disassembly, often via contact between combustion gases and the faultily-mixed contents of an injection chamber.
+
+...
+
+The discovery of prometheum field effects has had far-reaching consequences, enabling catalyzed operation of everything from radiators to vacuum tubes. Nevertheless, rigorous research had not been performed with regard to their influence on combustion before the late 1020s, where it was discovered that prometheum cathodes had an outsized effect on the volatility, reaction front velocity, and, to the dismay of the pulse-injection research team at Nueichhaxihan Observatory (Gashan) in 1026, detonability. Follow-up studies at the Wonoukanja Institute of Technology (Yiwa) refined the catalytic blasting formula, achieving consistent thumatronically modulated detonation in fuel-air mixtures by 1030. Though promoted as a means of shaftless propulsion, air-breathing blast tubes were mainly used as supersonic flow generators for projectile design; they would be used in this capacity for six years before the first high-power pulse combustor test in 1037, involving the Cabora-Meix Aeronautics Company (Urwe), Yegorum Technical Institute (Yineng), and Coneahixlin Northeastern Blasting Corporation (Eiyanixie). Surprising no one at the testing site, strong propulsive effect was observed before prompt vibration-induced disassembly of the testing stand.
+
+[ reference / inspiration : Non-equilibrium plasma for ignition and combustion enhancement @ https://link.springer.com/article/10.1140/epjd/s10053-021-00240-2 ]
+
+
+
+In a departure from both previous steam designs and internal combustion engines used elsewhere, the practical limitations of the thumovoltaic blast engine were not inherently rooted in its operational thermodynamics, nor in the parasitic losses of its surrounding machinery. Indeed, the actual energy expenditure of the cathode array was merely a fraction of a percent of that yielded in theory by the detonation - rather, its existence is a contest between the physical durability of the its pulsed electrical power supply and the fluence of each individual blast, which itself is bounded in practice by both peak operating voltage and the volumetric precision of the fuel injectors. Nevertheless, the engines themselves incur little manufacturing expense, and their controllability and compact size make them suitable for vibration-reducing asynchronous operation modes now standard in aircraft pulse boilers. 
+
+After eight months of airborne testing, test pilot Aya Mtehalangsela achieved powered launch and landing from an fitted with prometheum arc detonation engines (PADE) achieved powered flight
+
+
+REFERENCES:
+>.. Industrial detonation driven blower technology @  https://patents.google.com/patent/US2714563A/en
+>.. Catalytic channel shockwave acceleration @ https://convergecfd.com/blog/faster-than-the-speed-of-sound-influence-of-catalytic-walls-on-microchannel-detonation
+>.. Voltaic amplification of catalyst performance @ https://pubs.acs.org/jpchax/article-abstract/92/18/5083/1121829/Non-Faradaic-electrochemical-modification-of?redirectedFrom=fulltext
+
+
+-- -- 
+
+GPT.DUMP : Funding requirements for the first jet aircraft prototypes
+
+For the first practical jet engines:
+..
+Power Jets / Whittle's W.1 and W.2 development:
+Direct government support from the mid-1930s onward was relatively small initially, but expanded significantly after 1939. Actual development path from laboratory engine to useful flight engine involved roughly hundreds of thousands to a few million pounds (1940s GBP). Junkers Motorenwerke and BMW jet engine programs were much larger industrial efforts, particularly once the Luftwaffe became interested. Development and production preparation likely reached tens of millions of Reichsmarks.
+..
+For a broad "first operational jet aircraft capability" program (engine + airframe + test infrastructure), a plausible estimate is:
+Minimum shoestring scientific demonstrator: $5–20 million (1940 USD)
+Serious national research program: $50–150 million (1940 USD)
+Military-scale jet development program: $200 million+ (1940 USD)
+..
+The meteorological aircraft scenario is interesting because it probably sits in the middle. A transnational weather organization would not need
+[ fighter-grade acceleration, weapons, mass production, extreme durability ]
+It would need
+[ reliable turbine engine, pressure cabin, oxygen systems, instruments, few aircraft ]
+A plausible budget would therefore be around $50–100 million (1940 USD) spread over perhaps 8–10 years. In modern terms, maybe $1–2 billion. That is large, but not absurd for a consortium of major industrial nations. It is comparable to a large scientific infrastructure project rather than a military procurement program.
+
+[PROMPT : estimate for meteorological research budget aggregated across Europe in 1925]
+..
+National meteorological services combined: roughly $10–30 million (1925 USD) annually
+Actual scientific research component: perhaps $2–8 million (1925 USD) annually
+Including university atmospheric physics, upper-air balloon work, and related geophysical research: perhaps $5–15 million (1925 USD) annually
+++:
+$10 million (1925 USD) ≈ $15–18 million (1940 USD)
+$30 million (1925 USD) ≈ $45–55 million (1940 USD
+..
+One interesting consequence: if the balloon program already has oxygen, pressure garments, and cold-weather technology, the first jet aircraft might appear earlier than military jets but be much less impressive. It may fly higher but slower.
+..
+For example, a 1935 meteorological jet might plausibly achieve
+[ 15–18 km altitude, 500–700 km/h speed, several hours endurance ]
+while a military jet of the same era would demand far more from the engine and airframe.
+..
+So I would lower the lifecycle estimate somewhat. Instead of the earlier $50–100 million (1940 USD) range, a specialized scientific program might plausibly succeed in the $30–70 million (1940 USD) range, assuming the consortium already possesses the necessary high-altitude equipment and industrial base.
+..
+If the atmosphere is regarded as a domain of sacred importance, I could imagine several multipliers:
+.. Institutional priority: perhaps a 2–5× increase in baseline meteorological funding compared with a comparable real-world nation.
+.. Capital-project willingness: perhaps another 2–3× increase for exceptional projects (a stratospheric observatory, polar expedition, atmospheric aircraft).
+.. Scientific prestige effect: attracting elite engineers who might otherwise go into military or commercial aviation.
+..
+For an early meteorological jet, I would roughly divide costs like this:
+Customer-funded: perhaps 50–75% of the total program cost
+..  prototype aircraft purchases, research contracts, test facilities, atmospheric instrumentation, operational bases, pilot/scientist training, guaranteed orders.
+..
+The aeronautical firms would still need to invest their own resources, especially in:
+..  adapting turbine theory into hardware, developing manufacturing techniques, protecting commercial/military derivative opportunities, maintaining engineering teams between contracts.
+

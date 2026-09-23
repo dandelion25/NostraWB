@@ -1,0 +1,10 @@
+-- * --
+
+**Ion Promethisation Foundries**
+
+--
+
+Much has been learned about prometheum since the activation of the first hundred-kilovolt ion accelerators in the mid-1020s - in particular, the startling discovery of collision-induced thumatic dissociation has resulted in a wide variety of applications involving the use of high-energy prometheum ions, many inspired in some way by the agitator-based technologies of Dracinian origin. First devised from this principle was the method of promethizing fine surfaces and intricate shapes by ion implantation : introduced in 1033 AC at the Tsiabebin Electrical Company by Dr. Naou Guorabwun, the Tsiabebin Promethiser employs a ten-kilovolt beam of high-grade prometheum to efficiently convert up to seventy percent of a manganese target to low-grade prometheum, without direct substitution of the manganese by the impacting prometheum ions.
+
+Ion promethisation is a flexible and widely applicable technique, being able not only to activate pure manganese blanks, but to safely create otherwise difficult molecular compounds such as prometheum fluoride. This property makes it quite practical for the production and doping of optical media, employing three-dimensional focusing tables to create tailored on-demand refraction profiles for complex components in telescopes and conchromatic directors. Promethisation-finished manganese alloys are also tougher and stronger due to having been transmuted without adopting the brittle habit of prometheum, and semi-promethised components serve an important role in the manufacture of thumatic terminals and high-sensitivity thumometres.
+

@@ -1,0 +1,28 @@
+-- * --
+
+**Conchromatic Beams : Prelude to a Solar Laser**
+
+(ref : spectral beam combiner @ `https://laserscientist.com/spectral-beam-combining/`)
+
+--
+
+The industrialization of suntile usage and manufacture at the dawn of the 11th century brought much attention to the subject of optics and sunlight in the Nexus. With chemical and industrial processes suddenly coming upon large supplies of cheap solar radiation, demand arose for all manner of spectral separators, optical concentrators, diffraction arrays, and intensity-governing devices, applications for which were found in photochemical exposure, food and pharmaceutical sterilization, solar furnaces, metallurgic surface and vapor spectrography, optical alignment, and even steam superheating, combining the nascent practice of spectral optimization with the advent of fused silica pressure vessel windows. Yet for all that had so far been achieved with conventional optics, the limitations of incoherent, spectrally diffuse radiation continued to frustrate engineers, and experiments with monochromatic fluorescence had yet to push optical conversion rates into acceptable ranges for non-spectroscopic purposes.
+
+The chromatic nature of sunlight was well-known by the time of the Yeoxli Empire and Utwelanjaen Qayan, and has long been subject to efforts seeking to correct the spectral dispersion of lenses. Early achromatic lenses attempted to correct this in simple geometric fashion, but paired costly manufacture with diminishing benefit; other, more practical split-beam focusing systems were effective, but bulky and inconvenient to use and order. The existence of more optimal solutions was known since the mid-900s, but calculating them was not considered feasible until the demonstration of configurable frequency-domain electromechanical solvers in 1013 AC by Nebahgzaren and Obetil at the Teiarxsui Western Technical Institute in northern Urwe. Their machine was rented for seven months at Mudena General Optics Group in 1016, where it used to compute the design of the first conchromatic beam optic - an array of expertly machined prisms, mirrors, and suntiles of complex geometry, claiming to focus nine-tenths of a calm, clear mid-day's solar irradiance from its metre-wide aperture to a disc narrower than one centimetre at one hundred metres' range. Their claims were verified by the Xaqatoyek Regional Coast Guard at Mayinzun, from which orders were placed for the delivery of 53 spotlights using the new optic by 1018.020.
+
+In early 1022, a hostage situation involving the Xaqatoyek Regional Coast Guard ended with 17 cases of permanent blindness after an attempt to blind the ransoming pirates. Though this resulted in the phasing out of the conchromatic spotlights, the scandal sparked a science-fiction trend in the use of beam weapons, which in turn inspired various engineers and entrepreneurs to try their hand at constructing increasingly absurd conchromatic optics. One particularly eccentric Adept by the name of Sxih Tur Kuanunkurisi took advantage of his temple's rented calculators to arrange all 110 of an ill-frequented boiler station's suntiles into a conchromatic solar beam array with which he reportedly cooked passing birds, started a forest fire, scalded a rival Adept through his washing basin, and harassed passersby by burning obscene murals into roadside slopes. Though Sxih Tur was stripped of his position for his misdeeds, the initial panic of the 1025 Medijan Crisis prompted Procurement-General Baur Xamagwi of the Anggayan Volunteer Army to hire him as a military engineer.
+
+The conchromatic 'day lanterns' designed by Sxih Tur Kuanunkurisi were, in most respects, unwieldy, tactically implausible, and considered by many to this day a gross misuse of the public funds dedicated to pushing the NSR out of Medijan. Over five thousand were built and assembled on the front lines, quickly showing themselves to be woefully cost-ineffective in the prescribed task of burning or blinding enemy infantry through the thick foliage of the Medijan jungle. Yet enemy aircraft did not dare fly nearby in daytime, deterred or thrown off course by the dazzling beam of the conchromatic weapon; even at distances of over five kilometers, exposure to its beam could cause instruments and wing components to warp, tear, and even catch fire. All the same, they were effectively immobile and much costlier than competent heavy cannon-director systems refined later in the war, leaving them as curious relics to occasionally be brought up by junior Anggayan war planners as a possible counter against Interdincian aerial infantry.
+
+|  Model 1027 Day Lantern
+effective aperture diameter : 2.1 m
+turret housing diameter : 2.8 m
+suntile array : 1500 m^2 (~1.1 MW av. rating)
+nighttime spotting arc light : 60 kW
+assembly mass : 180.2 ~ 210.5 t
+combat-rated intensity : 100 kW/m^2
+spot radius :
+- ~1.0 m @ 3 km range  (200 ~ 350 kW/m^2)
+- ~1.5 m @ 5 km range  ( 80 ~ 155 kW/m^2)
+- ~2.5 m @ 10 km range ( 20 ~  56 kW/m^2)
+

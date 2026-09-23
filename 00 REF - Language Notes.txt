@@ -26,3 +26,36 @@ HJICA => Fire, Conflagration, Inflame
 .. HZIQYEOSHAENH => Railway : Propelling (Hziqyeo) + Channel (Shaenh)
 . UMHZIQIYA => Engine/Heart : Source (Umu) + Anima (Hziqe) + Intimate/Rightful Spot (Kiya)
   ~~ note: Yeoxli cultures expanded their perception of the heart as Siayeo philosophy developed.
+
+
+-- Nilxaqaemchi Script --
+
+The scripts of the Nexus do not share a common origin - Qayan, West Touman, Souyan, and Yeoxli cultures have all at some point created and used indigenous scripts based off local belief systems, but the growing influence of the Siayeo Nexus and the prominent administrative legacy of the Yeoxli Empire and its printing technologies promoted the widespread use of the Eastern Xaqa semi-logographic system, i.e. the Nilxaqaemchi script, created and shared in the early history of the Yeoxli Empire by the peoples between the Cwimdan and Heo rivers. Though originally such logographs referred largely to proper individuals or objects, many modern logographs can trace their origin from adapted concepts and compiled verses of the Siayeo temple script. Used alongside phonetic Nilxaqaemchi renditions of local languages, such logographs have retained the Siayeo tendency of adopting markedly different literal readings based on the procedural and metaphorical intent of the reader and writer. Yet the temple script itself is a largely procedural script with few irreducible concepts, enabling dedicated scholars to more easily navigate scripts without aid of elite central education - a particularly noticeable quality within the Siayeo Nexus's rich and regionally divergent bodies of critical literature and passive-aggressive diplomatic correspondences.
+
+Phonetic Nilxaqaemchi contains 9 vowels, 18 consonants, and 7 textures, which have been used alternately as tone indicators, stress accents, and phoneme components across the different Siayeo languages. Nilxaqaenchi logographs are used with an typical frequency of 2 to 5 per sentence, with up to one-third being with the intent to be read for their sound and not their literal meanings - often as contractive expressions of lengthy native words. Of the remainder, half are Siayeo temple-script derivatives, and a quarter of specific formal provenance. Nilxaqaemchi is a horizontal script read from left to right and bottom to top, traditionally written using a reed pen or heated pyrographic stylus on paper. Though artistic and aesthetic styles exist and are popularized by printed fonts, its common phonetic handwritten form consists mostly of a small set of straight or hooked lines in reflection of its origin as a fast record-taking script on cheap media. At the same time, having developed alongside the formal Yeoxli use of official stamps and printed signatures, a more intricate style is still expected for logographs; many have been simplified over time, but care is still taken to preserve the overall length, number, and placement of each line in logographic calligraphy, some of which have come to replace previously existing tight curves.
+
+Letters often prepend and postpend 'attached' letters which can alter their pronunciation by way of a connected line between them.
+
+Nilxaqaemchi elementary phonetic set:
+A    - two perpendicular lines at a diagonal, like '<'
+Ae   - like 'A' but with an additional horizontal line linked at top.
+E/eh - two perpendicular segments, like 'Γ'
+Ei   - A vertical line with a large hook, like 'μ'
+Eu   - like 'Ei', but upside down. Hook completes to a closed shape.
+Yi/Y - Like 'E', but horizontally flipped and a bottom hook.
+Ii/i - Like 'Y' without the bottom hook.
+O    - An upside-down U-shape.
+Uw/U - Like 'O', but with a a hook at the top, similar to 'λ'.
+
+Consonants:
+X/Z  - A ㅈ-shaped character.
+N    - 
+M    -
+S    - 
+G    -
+Ng/mg- 
+
+
+Textures:
+H   - Vertical strikethrough; a breathy/phlegmatic sound accent.
+G   -

@@ -1,10 +1,13 @@
 This is a list of all the nations, their cities, and locations of significance.
 
 Eiyanixie
-- Capital : Eiyaniyaktan ~ 
+- Capital : Tixyikteran (Prime/Peak City/Garden/Cultivated) / Eiyanyikteran ~ 
 
 Urwe
 - Capital : Cewmrih ~ 
+.. Teiarxsui ~ city in northern Urwe, home to the Teiarxsui Western Technical institute.
+.. Mayinzun ~ small city in southwestern Urwe.
+.. Xaqatoyek ~ referring to the region of Urwe south of the Yunamer, of the Xaqa culture.
 
 Shisha
 - Capital : Nanzunhapsha ~ the administrative city of the Shisha federation.
@@ -12,6 +15,7 @@ Shisha
 
 Loa
 - Capital : Uimd ~ 
+.. Balg Tahelang
 
 Anggayan
 - Capital : Langhan
@@ -22,6 +26,8 @@ Miayan
 
 Yiwayan
 - Capital : Kruigang (old: Truigang) ~ At the mouth of the Hangsha, the old northern capital of Jia.
+Tsiabebin ~ A large industrial city and economic centre of the north. Headquarters of the Tsiabebin Electrical Company.
+Butnang ~ The western provincial capital of Yiwa along the Hangsha, also the old royal capital during much of the Utwelanjaen era.
 
 Kifia
 - Capital : Aürbanisan
@@ -29,7 +35,7 @@ Kifia
 .. Kisourbin ~ Now a prominent port city, home of Wajanpi during his retirement from 159 to 122 BC.
 
 Yineng
-- Capital : Barikh
+- Capital : 
 
 Gashan
 - Capital : Sarengcati
@@ -37,4 +43,11 @@ Gashan
 .. Junaanarosin ~ The second biggest city in Gashan, at the mount of the Belurugan river.
 .. Bhogyanasin ~ The northern provincial capital of Gashan.
 Koronsinnam : Mountain province that formerly divided Irden and Gashan
+
+Medijan
+- Capital : Wyrasin
+.. Yapobare ~ Depopulated in the 1025 Medijan Crisis.
+.. Telacaykran ~ City of the Telacnamiexi, leader of the Thumuyatan League from 452-710. Depopulated in the 1025 Medijan Crisis.
+.. Mumdaghan ~ Destroyed in the 1025 Medijan Crisis.
+.. Ohonakre ~ Depopulated in the 1025 Medijan Crisis.
 

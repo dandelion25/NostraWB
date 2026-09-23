@@ -1,0 +1,95 @@
+== International Bodies ==
+
+>  802 Yunamer Passage Agreement
+..
+>  880 Qhrin Tiwu Ban Agreement
+- QTPY Coalition Military
+- Ten Nations Joint Police Bureau
+..
+Signatories:
+- Yineng Republican Congress
+- Kingdom of Miayan
+- Gashan Commonwealth
+- Kifian Ministerial Committee
+- Anggayan Executive Council
+- Republic of Yiwa
+- Kingdom of Urwe, Parliament of Urwe, Urwe Standards and Taxation Commission
+- Shisha Transmetropolitan Custodian Administration
+- Loai People's Council
+
+
+
+== National Bodies ==
+
+> Yineng
+L1 : Congress || Presidency || Commissions
+..
+
+> Miayan
+L1 : Monarchy || Advisory || Inquisition
+..
+Monarchy - The hereditary and absolute executive of the kingdom, whose ratified actions in court are actionable as law. The monarch holds court with the lord-governors of the provinces of Miayan, holding the authority to question, review, and enshrine in law all matters relating to proposals of law or national expediency. In this way the monarch is held to communicate directly with the needs of the people, somewhat effectively in days past and in truth after the 895 AC reforms of Jaiho V in dispensing the traditional right of noble office to local electorate bodies organized by the newly established Commons of the Royal Advisory.
+..
+Advisory - Appointed for life at its highest levels by the monarch, The chief duties of the Miayan Royal Advisory are ostensibly to ensure the fitness of the monarch for the governance of the kingdom, and to carry on the will of the royal mother and father. Yet in practice, the Advisory has grown much larger than in other past and present Siayeo monarchies to fulfill the bureaucratic and judiciary needs beyond the mandate of the royal will, largely absorbing the lordships that elsewhere created parliaments and other constituencies. 
+L2 : Senate || Commons
+  .. Senate - Appointed for life or to death from the ranks of nobility by the reigning monarch, the Senate is charged more broadly with recruitment of the bureaucratic workforce of the Advisory. Once the representative body of the landed aristocracy, its constituency largely shifted towards petty noble literati following the institution of the Yeoxli-inspired imperial examinations in 500 AC.
+  .. Commons - Drafted by lots from the citizenry of Miayan, members of the Commons serve for five years in committees overseen by the Inquisition to review laws, revoke advisorships, and ensure the fair and just delivery of the royal law within the proceedings of the Advisory. Though at one point accessory to the Inquisition, it has by now effectively become a self-governing professional body independent from both royal and Senate appointments.
+..
+Inquisition - Answering directly to the monarch, the Inquisition was established in 779 AC as a means of suppressing rebellions and enforcing upon the nobility the rapid changes required to avert the economic and social disintegration that descended upon neighbouring Yiwayan. Funded directly by the royal treasury, it is their duty to uncover and compile incidents of misconduct both within the Advisory and among provincial governments at request of the monarch.
+
+> Gashan
+L1 : Ministerial Assembly || 
+.. 
+.. - Though once filled with the voices of Nuenkesarilit-era generals, the integration of south Irdenia 
+..
+
+> Kifia
+L1 : Ministerial Committee || House of Records
+..
+Kifian Ministerial Committee - A formerly technocratic body originating in the caste system of Nanask and the revolutionary war machine created to break its hold, the various centralized bodies of Kifia were reconstituted after the formal abolishment of dictatorial organization in 782 to more broadly reflect the needs of the provinces at the end of the Black and Crimson Rains. The duty of the Prime Minister is to curate the agenda of all motions that are to be discussed, for which each municipal council must prepare advocate and opposition speakers on each topic to make a case before carrying out a vote. Not all Speakers must voice their case; Speakers that spoken, but only repeated the case of previous Speakers may be rebuked by the House of Records for violating the spirit of the Committee, depriving them of their vote. Motions with a two-thirds majority are passed into law, and witnessed by the House of Records and all subordinate ministries to be true in all the country.
+..
+House of Records - Contiguous from the time of Nanask, the House of Records has undertaken the arduous task of carrying out and compiling surveys of the state of the country for what is now over five hundred years, appointing its members through a series of expert certifications and ritual tasks. Its early tolerance of the teachings of Tiarem allowed it to retain the right to formally rebuke - and hereby suspend - all support of criminal or morally despicable acts as it had once done on behalf of the solar priesthood, albeit with clauses for individual rights and taboos against cultural biases as first declared (and since amended) by the Kisourbinnajac Oath in 760 AC. Counselling bodies in the House of Records serve as advisory panels and overseers to the executive functions of ministerial committees, and members of the House of Records stand witness criminal trials to prevent miscarriages of justice by the relevant judicial body.
+..
+
+> Anggayan
+L1 : Executive Committee || 
+.. Senate - 
+..
+
+> Yiwa
+L1 :
+..
+
+> Urwe
+L1 : Monarchy || Advisory || Parliament || Commissions
+..
+Monarchy - The hereditary executive with veto power over proposals of Parliament, the monarch of Urwe commands the armed forces, and has the authority to establish new Commissions for the purpose of administering the country.
+..
+Advisory - Appointed part internally, part by the Monarch, and part by the Lords by Elect of parliament, the Advisory is charged with informing the monarch, preparing the functions of court, and ensuring the day-to-day operation of the royal Commissions is carried out to satisfaction of the royal intent. The task is a demanding one - members of the Advisory deemed unfit for duty beyond their own judgement are judged traitors to the throne, and may be revoked of either their citizenship or their lives.
+..
+Parliament - Convening in the court of the monarch, Parliament - split 20/80 between 'Lords by Right' and 'Lords by Elect' concerns itself with the drafting and forwarding of proposals to the monarch, with further ability to override the royal veto by way of a 7/8ths majority vote. Within Parliament, all members may concern themselves with the operation of the royal Commissions, and may independently revoke them by 7/8ths majority - but among them, Lords by Right may be mandated by the monarch to oversee Commissions, and may be asked to relinquish their positions in Parliament to do so.
+..
+Commissions - Established and charged by the monarch with administration of the kingdom, the royal Commissions have no duties to the public beyond that outlined in their royal charter, a document that, despite its name, is subject to amendment by action of Parliament via a 5/8 majority vote with a quorum equal to the greatest member count of all previous amendments relevant to the present one, beginning at 1/4 of the seats in Parliament. Chief among them are the Royal Bank, the Royal Army, and the Standards and Taxation Commissions, which answer to one another via a continuously evolving contract.
+
+
+> Shisha
+L0 : Transmetropolitan Custodian Administration
+L1 : Custodian Body || Standards and Security Committee || Public Advisory
+..
+Custodian Body - Led by the High Custodian and appointed by the Public Advisory from non-representing campaigning members of the Standards and Security Committee, the Custodian Body has the ability to both independently propose laws and bring proposals of the Standards and Security Committee to examination by the Public Advisory. Members of the Custodian Body are also responsible for foreign diplomacy and negotiation of both international and intermetropolitan customs fees and other transfers, including most matters relating to the QTB. Notably, since the 1025 Medijan Crisis, the Custodian Body is also responsible for funding and operating the  Volunteer Army.
+..
+Standards and Security Committee - The technocratic governing body of Shisha, the Standards and Security Committee is contiguous from the original Souyan Provisional Government of 770 and its failed effort to establish a coherent unified military force across the Yunamer passage. Composed of thirty-nine expert bodies approved internally from candidates presented by each Shisha metropolitan unit, the SSC coordinates the common implementation of laws, taxes, and condemnations, respectively handled by the Legal Bureau, Accounting and Surveys Bureau, and the Conflict Resolution Committee in coordination with regional secretary departments of the Public Advisory.
+..
+Public Advisory - Populated by democratically elected representatives of each Shisha metropolitan unit, the Public Advisory has the ability to approve and retroactively deny legal implementations of the Custodian Body by 3/4 majority agreement of a randomly selected 1/4 quorum of its 400 total members. Additionally, the Public Advisory contributes to the policing of federal and subfederal bodies by declaring judicial condemnations - a condemned body or individual is open to prosecution under any Shisha law considered relevant to the nature of the condemnation, even where the law does not typically apply to the relevant sub-federal jurisdiction of that body. 
+..
+
+> Loai
+L1 : Central People's Committee || Socioeconomic Planning Commission || Internal Investigations Commission
+..
+Central People's Committee - Elevated by merit from regional political offices across the country, members of the CPC are selected by their commitment to SPC milestones and their ability to mitigate complaint reports from those under their management. Numbering 108 individuals, they represent their municipalities by preparing and advocating legal agendas in CPC meetings before SPC expert panels and the Premier, both of which hold veto power - the former thrice, and the latter an indefinite number of times for each agenda and its amendments. CPC members also hold the responsibility of ensuring compliance of their constituencies with the law, and may be dismissed from their positions with a 54-quorum 2/3 majority vote; such dismissals can be prepared only by other CPC members, but can be expedited in process with aid of the IIC.
+..
+Socioeconomic Planning Commission - Acting on agendas presented within the CPC, the SPC is a quasi-independent technocratic body of experts recruiting registrars with SPC-approved certifications and expert advocacies. SPC internal committees mobilize expertise and resources in accordance with CPC-provided budgets to carry out new initiatives, with each internal committee having available different resources according to legal prescriptions; however, SPC bodies are free to prepare their own schedules and performance expectations to present at regular reviews against which CPC members' merit is ultimately measured. Of course, individual SPC committees themselves are subject to review by both the CPC and IIC, which may result in uneventful dissolution of the committee or prosecution of SPC members for failure to carry out their self-prescribed directives.
+..
+Though originally answering directly to the Premier to detect incidents of corruption and treason during the war, the growing bureaucratic responsibilities of the secret police in tracking individual merit and SPC performance measures eventually did force a reconstitution in 1020 into the current IIC, which itself was granted further responsibilities in compiling evidence for general intragovernmental judicial action in 1022. Inspired partially by the House of Records in Kifia, the new IIC - composed of both internal appointees and external appointies supplied by the SPC - was given the responsibility of keeping detailed political records for review by SPC and CPC experts. Yet simultaneously much of its authority in carrying out detainments and interrogations was delegated to CPC bodies, limiting its ability to carry out prosecutions on the basis of its own evidence.
+
+
